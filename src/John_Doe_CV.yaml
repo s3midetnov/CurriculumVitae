@@ -4,9 +4,9 @@ cv:
   email: artemsemidetnov@gmail.com
   phone: tel:+7 (921) 363-8909
   # website: https://yourwebsite.com/
-  social_networks:
-    - network: telegram
-      username: tema6501
+  # social_networks:
+  #   - network: telegram
+  #     username: tema6501
     # - network: LinkedIn
     #   username: yourusername
   sections:

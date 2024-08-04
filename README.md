@@ -26,83 +26,53 @@ Picture this:
 -  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage. Update `.vscode/launch.json` to point to your YAML file and press `F5` to run RenderCV in the browser.
 
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
-# John Doe's CV
+# Artem Semidetnov's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +7 921 363 89 09
+- Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
+- Location: Saint-Petersburg
 
 
-# Welcome to RenderCV!
-
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
-
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-
-# Quick Guide
-
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## Saint-Petersburg State University, BS in Mathematics
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
-
-# Experience
-
-## Apple, Software Engineer
-
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
-
-## Microsoft, Software Engineer Intern
-
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+- 2021 – 2025
 
 # Publications
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+## On the geometry of free nilpotent groups ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
+- May 2021
+- ***Artem Semidetnov***, Ruslan Magdiev
 
-# Projects
+# Awards and Scholarships
 
-## Multi-User Drawing Tool
+Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft")
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+# Teaching Experience
 
-## Synchronized Desktop Calendar
+## Sirius educational center, Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
+- Apr 2024 – May 2024
+- Sochi, Russia
 
-## Custom Operating System
+## Laboratory for continuous mathematical education, teacher
 
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
+- 2021 – 2023
 
-# Technologies
+# Work Experience
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
+
+- June 2024 – Sept 2024
+- Pafos, Cyprus
+- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+- Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release})
+
+## IPONWEB (acquired by Criteo), Machine Learning Intern
+
+- May 2023 – Sept 2023
+- Pafos, Cyprus
+- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
+

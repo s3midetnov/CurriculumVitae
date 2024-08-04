@@ -19,8 +19,8 @@
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
 \usepackage[
-    pdftitle={John Doe's CV},
-    pdfauthor={John Doe},
+    pdftitle={Artem Semidetnov's CV},
+    pdfauthor={Artem Semidetnov},
     pdfcreator={LaTeX with RenderCV},
     colorlinks=true,
     urlcolor=primaryColor
@@ -56,7 +56,7 @@
 \makeatletter
 \let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
 \patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small John Doe - Page \thepage{} of \pageref*{LastPage}}
+    \color{gray}\textit{\small Artem Semidetnov - Page \thepage{} of \pageref*{LastPage}}
 }{}{} % replace number by desired string
 \makeatother
 \pagestyle{customFooterStyle}
@@ -179,71 +179,24 @@
     \placelastupdatedtext
     \begin{header}
         \fontsize{30 pt}{30 pt}
-        \textbf{John Doe}
+        \textbf{Artem Semidetnov}
 
         \vspace{0.3 cm}
 
         \normalsize
-        \mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Your Location}%
+        \mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Saint-Petersburg}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{mailto:youremail@yourdomain.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}youremail@yourdomain.com}}%
+        \mbox{\hrefWithoutArrow{mailto:artemsemidetnov@gmail.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}artemsemidetnov@gmail.com}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{tel:+90-541-999-99-99}{{\footnotesize\faPhone*}\hspace*{0.13cm}0541 999 99 99}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://yourwebsite.com/}{{\footnotesize\faLink}\hspace*{0.13cm}yourwebsite.com}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://linkedin.com/in/yourusername}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}yourusername}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://github.com/yourusername}{{\footnotesize\faGithub}\hspace*{0.13cm}yourusername}}%
+        \mbox{\hrefWithoutArrow{tel:+7-921-363-89-09}{{\footnotesize\faPhone*}\hspace*{0.13cm}8 (921) 363-89-09}}%
     \end{header}
 
     \vspace{0.3 cm - 0.3 cm}
 
-
-    \section{Welcome to RenderCV!}
-
-
-
-        
-        \begin{onecolentry}
-            \href{https://github.com/sinaatalay/rendercv}{RenderCV} is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with \textbf{full Markdown syntax support} and \textbf{complete control over the LaTeX code}.
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            The boilerplate content was inspired by \href{https://github.com/dnl-blkv/mcdowell-cv}{Gayle McDowell}.
-        \end{onecolentry}
-
-
-    
-    \section{Quick Guide}
-
-    \begin{onecolentry}
-        \begin{highlightsforbulletentries}
-
-
-        \item Each section title is arbitrary and each section contains a list of entries.
-
-        \item There are 7 unique entry types: \textit{BulletEntry}, \textit{TextEntry}, \textit{EducationEntry}, \textit{ExperienceEntry}, \textit{NormalEntry}, \textit{PublicationEntry}, and \textit{OneLineEntry}.
-
-        \item Select a section title, pick an entry type, and start writing your section!
-
-        \item \href{https://docs.rendercv.com/user_guide/}{Here}, you can find a comprehensive user guide for RenderCV.
-
-
-        \end{highlightsforbulletentries}
-    \end{onecolentry}
 
     \section{Education}
 
@@ -251,57 +204,10 @@
 
         
         \begin{threecolentry}{\textbf{BS}}{
-            Sept 2000 – May 2005
+            2021 – 2025
         }
-            \textbf{University of Pennsylvania}, Computer Science
-            \begin{highlights}
-                \item GPA: 3.9/4.0 (\href{https://example.com}{Transcript})
-                \item \textbf{Coursework:} Computer Architecture, Comparison of Learning Algorithms, Computational Theory
-            \end{highlights}
+            \textbf{Saint-Petersburg State University}, Mathematics
         \end{threecolentry}
-
-
-    
-    \section{Experience}
-
-
-
-        
-        \begin{twocolentry}{
-            Cupertino, CA
-
-        June 2005 – Aug 2007
-
-        2 years 2 months
-        }
-            \textbf{Apple}, Software Engineer
-            \begin{highlights}
-                \item Reduced time to render user buddy lists by 75\% by implementing a prediction algorithm
-                \item Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-                \item Redesigned chat file format and implemented backward compatibility for search
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            Redmond, WA
-
-        June 2003 – Aug 2003
-
-        2 months
-        }
-            \textbf{Microsoft}, Software Engineer Intern
-            \begin{highlights}
-                \item Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-                \item Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-                \item Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-                \item Created a test case generation tool that creates random XML docs from XML Schema
-                \item Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
-            \end{highlights}
-        \end{twocolentry}
-
 
 
     
@@ -312,79 +218,89 @@
         
         \begin{samepage}
             \begin{twocolentry}{
-                Jan 2004
+                May 2021
             }
-                \textbf{3D Finite Element Analysis of No-Insulation Coils}
+                \textbf{On the geometry of free nilpotent groups}
 
                 \vspace{0.10 cm}
 
-                \mbox{Frodo Baggins}, \mbox{\textbf{\textit{John Doe}}}, \mbox{Samwise Gamgee}
+                \mbox{\textbf{\textit{Artem Semidetnov}}}, \mbox{Ruslan Magdiev}
                 \vspace{0.10 cm}
 
-        \href{https://doi.org/10.1109/TASC.2023.3340648}{10.1109/TASC.2023.3340648}
+        \href{https://doi.org/https://doi.org/10.48550/arXiv.2106.00095}{https://doi.org/10.48550/arXiv.2106.00095}
             \end{twocolentry}
         \end{samepage}
 
 
     
-    \section{Projects}
+    \section{Awards and Scholarships}
+
+
+
+        
+        \begin{onecolentry}
+            Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft")
+        \end{onecolentry}
+
+
+    
+    \section{Teaching Experience}
 
 
 
         
         \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
+            Sochi, Russia
+
+        Apr 2024 – May 2024
         }
-            \textbf{Multi-User Drawing Tool}
-            \begin{highlights}
-                \item Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-                \item Tools Used: C++, MFC
-            \end{highlights}
+            \textbf{Sirius educational center}, Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}
         \end{twocolentry}
 
 
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
+            2021 – 2023
         }
-            \textbf{Synchronized Desktop Calendar}
-            \begin{highlights}
-                \item Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-                \item Tools Used: C\#, .NET, SQL, XML
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            2002
-        }
-            \textbf{Custom Operating System}
-            \begin{highlights}
-                \item Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-                \item Tools Used: C
-            \end{highlights}
+            \textbf{Laboratory for continuous mathematical education}, teacher
         \end{twocolentry}
 
 
 
     
-    \section{Technologies}
+    \section{Work Experience}
 
 
 
         
-        \begin{onecolentry}
-            \textbf{Languages:} C++, C, Java, Objective-C, C\#, SQL, JavaScript
-        \end{onecolentry}
+        \begin{twocolentry}{
+            Pafos, Cyprus
+
+        June 2024 – Sept 2024
+        }
+            \textbf{JetBrains}, Research Intern in HoTT and Dependent Types Lab
+            \begin{highlights}
+                \item I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+                \item Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+                \item Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release})
+            \end{highlights}
+        \end{twocolentry}
+
 
         \vspace{0.2 cm}
 
-        \begin{onecolentry}
-            \textbf{Technologies:} .NET, Microsoft SQL Server, XCode, Interface Builder
-        \end{onecolentry}
+        \begin{twocolentry}{
+            Pafos, Cyprus
+
+        May 2023 – Sept 2023
+        }
+            \textbf{IPONWEB (acquired by Criteo)}, Machine Learning Intern
+            \begin{highlights}
+                \item Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
+            \end{highlights}
+        \end{twocolentry}
+
 
 
     

@@ -46,7 +46,7 @@ cv:
         date: 2021-05-31
     awards and scholarships: 
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft")
-        start_date: 2023-2024
+        # start_date: 2023-2024
     teaching experience:
       - company: Sirius educational center
         position: Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}

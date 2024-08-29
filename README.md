@@ -100,5 +100,9 @@ JetBrains Scholarship in Neapolis University
 # Miscellaneous
 
 - Finalist of 2020 Intel ISEF
+- Intel ISEF alumni
+- Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
 - 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
 - Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+- English level C1 (IELTS 8.0/9)
+- Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)

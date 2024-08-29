@@ -75,10 +75,12 @@ JetBrains Scholarship in Neapolis University
 ## On the geometry of free nilpotent groups
 
 - 2021
-- Siberian summer conference, Novosibirsk, Russia
+- Novosibirsk, Russia
+- Siberian summer conference
 
 ## \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
 
+- Saint Petersburg
 - St. Petersburg Seminar on Representation Theory and Dynamical Systems
 
 # Work Experience

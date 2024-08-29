@@ -39,15 +39,21 @@ Picture this:
 
 - 2021 – 2025
 
+## Neapolis University Of Pafos, BS in Applied Computer Science JetBrains Program
+
+- 2022 – 2024
+
 # Publications
 
-## On the geometry of free nilpotent groups ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
+## \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups} ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
 - May 2021
 - ***Artem Semidetnov***, Ruslan Magdiev
 
 # Awards and Scholarships
 
-Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft")
+Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+
+JetBrains Scholarship in Neapolis University
 
 # Teaching Experience
 
@@ -56,9 +62,24 @@ Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom nef
 - Apr 2024 – May 2024
 - Sochi, Russia
 
-## Laboratory for continuous mathematical education, teacher
+## Laboratory for continuous mathematical education, mathematics teacher for gifted students. I was teaching introduction to group theory.
 
 - 2021 – 2023
+
+## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course "Braid and knot theory"
+
+- June 2023
+
+# Selected Talks
+
+## On the geometry of free nilpotent groups
+
+- 2021
+- Siberian summer conference, Novosibirsk, Russia
+
+## \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
+
+- St. Petersburg Seminar on Representation Theory and Dynamical Systems
 
 # Work Experience
 
@@ -76,3 +97,8 @@ Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom nef
 - Pafos, Cyprus
 - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
 
+# Miscellaneous
+
+- Finalist of 2020 Intel ISEF
+- 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
+- Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}

@@ -102,8 +102,13 @@ cv:
 
     miscellaneous:
       - bullet: Finalist of 2020 Intel ISEF
+      - bullet: Intel ISEF alumni
+      - bullet: Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
       - bullet: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
       - bullet: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+      - bullet: English level C1 (IELTS 8.0/9)
+      - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

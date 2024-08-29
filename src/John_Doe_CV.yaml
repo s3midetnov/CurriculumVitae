@@ -37,15 +37,21 @@ cv:
         #   - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
         #   - '**Coursework:** Computer Architecture, Comparison
         #     of Learning Algorithms, Computational Theory'
+      - institution: Neapolis University Of Pafos
+        area: Applied Computer Science JetBrains Program
+        degree: BS
+        start_date: 2022
+        end_date: 2024
     publications:
-      - title: On the geometry of free nilpotent groups
+      - title: \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups}
         authors:
           - '***Artem Semidetnov***'
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
         date: 2021-05-31
     awards and scholarships: 
-      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft")
+      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+      - JetBrains Scholarship in Neapolis University
         # start_date: 2023-2024
     teaching experience:
       - company: Sirius educational center
@@ -54,9 +60,20 @@ cv:
         start_date: 2024-04
         end_date: 2024-05
       - company: Laboratory for continuous mathematical education
-        position: teacher
+        position: mathematics teacher for gifted students. I was teaching introduction to group theory. 
         start_date: 2021
         end_date: 2023
+      - company: Mathematics and Computer Science faculty program for prospective students
+        position: Teaching assistant on the course "Braid and knot theory"
+        start_date: 06.2023
+    selected talks: 
+      - seminar: Siberian summer conference
+        location: Novosibirsk, Russia
+        start_date: 2021
+        topic: "On the geometry of free nilpotent groups"
+      - seminar: St. Petersburg Seminar on Representation Theory and Dynamical Systems
+        location: Saint Petersburg
+        topic: \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
         
     work experience:
       - company: JetBrains
@@ -82,6 +99,12 @@ cv:
       #     - Samwise Gamgee
       #   doi: 10.1109/TASC.2023.3340648
       #   date: 2004-01
+
+    miscellaneous:
+      - thing: Finalist of 2020 Intel ISEF
+      - thing: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
+        location: Barcelona, Spain
+      - thing: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

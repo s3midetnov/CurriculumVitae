@@ -100,11 +100,11 @@ cv:
       #   doi: 10.1109/TASC.2023.3340648
       #   date: 2004-01
 
-    miscellaneous:
-      - company: Finalist of 2020 Intel ISEF
-      - company: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
-        location: Barcelona, Spain
-      - company: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+    # miscellaneous:
+    #   - company: Finalist of 2020 Intel ISEF
+    #   - company: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
+    #     location: Barcelona, Spain
+    #   - company: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

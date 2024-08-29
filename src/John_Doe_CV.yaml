@@ -65,11 +65,11 @@ cv:
         end_date: 2023
       - company: Mathematics and Computer Science faculty program for prospective students
         position: Teaching assistant on the course "Braid and knot theory"
-        start_date: 06.2023
+        date: 2023-06
     selected talks: 
       - company: Siberian summer conference
         location: Novosibirsk, Russia
-        start_date: 2021
+        date: 2021
         topic: "On the geometry of free nilpotent groups"
       - company: St. Petersburg Seminar on Representation Theory and Dynamical Systems
         location: Saint Petersburg
@@ -100,11 +100,11 @@ cv:
       #   doi: 10.1109/TASC.2023.3340648
       #   date: 2004-01
 
-    # miscellaneous:
-    #   - company: Finalist of 2020 Intel ISEF
-    #   - company: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
-    #     location: Barcelona, Spain
-    #   - company: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+    miscellaneous:
+      - company: Finalist of 2020 Intel ISEF
+      - company: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
+        location: Barcelona, Spain
+      - company: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

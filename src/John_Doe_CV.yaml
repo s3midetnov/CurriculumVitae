@@ -69,10 +69,12 @@ cv:
     selected talks: 
       - name: "On the geometry of free nilpotent groups"
         location: Novosibirsk, Russia
-        highlights: Siberian summer conference
+        highlights: 
+          - Siberian summer conference
         date: 2021
       - name: \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
-        highlights: St. Petersburg Seminar on Representation Theory and Dynamical Systems
+        highlights: 
+          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
         location: Saint Petersburg
         
         

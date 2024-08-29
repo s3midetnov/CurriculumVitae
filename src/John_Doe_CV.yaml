@@ -67,13 +67,13 @@ cv:
         position: Teaching assistant on the course "Braid and knot theory"
         date: 2023-06
     selected talks: 
-      - company: Siberian summer conference
-        location: Novosibirsk, Russia
+      - name: "On the geometry of free nilpotent groups"
+        location: Siberian summer conference, Novosibirsk, Russia
         date: 2021
-        topic: "On the geometry of free nilpotent groups"
-      - company: St. Petersburg Seminar on Representation Theory and Dynamical Systems
-        location: Saint Petersburg
-        topic: \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
+      - name: \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
+        location: St. Petersburg Seminar on Representation Theory and Dynamical Systems
+        # location: Saint Petersburg
+        
         
     work experience:
       - company: JetBrains
@@ -101,10 +101,9 @@ cv:
       #   date: 2004-01
 
     miscellaneous:
-      - company: Finalist of 2020 Intel ISEF
-      - company: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians}
-        location: Barcelona, Spain
-      - company: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+      - bullet: Finalist of 2020 Intel ISEF
+      - bullet: 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
+      - bullet: Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

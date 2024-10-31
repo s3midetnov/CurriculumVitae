@@ -108,3 +108,4 @@ JetBrains Scholarship in Neapolis University
 - Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
 - English level C1 (IELTS 8.0/9)
 - Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+- Created mathematical problem for 2024 International Tournament of Young Mathematicians (\href{https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view}{10th in here}).

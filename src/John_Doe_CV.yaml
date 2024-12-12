@@ -11,10 +11,10 @@ cv:
       username: yourusername
   sections:
     welcome_to_RenderCV!:
-      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-        a LaTeX-based CV/resume framework. It allows you to create
-        a high-quality CV or resume as a PDF file from a YAML
-        file, with **full Markdown syntax support** and **complete
+      - '[RenderCV](https://rendercv.com) is a LaTeX-based CV/resume
+        version-control and maintenance app. It allows you to
+        create a high-quality CV or resume as a PDF file from
+        a YAML file, with **Markdown syntax support** and **complete
         control over the LaTeX code**.'
       - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
     quick_guide:
@@ -34,7 +34,7 @@ cv:
         start_date: 2000-09
         end_date: 2005-05
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
+          - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
           - '**Coursework:** Computer Architecture, Comparison
             of Learning Algorithms, Computational Theory'
     experience:
@@ -62,8 +62,8 @@ cv:
           - Created a service to provide gradient across VS and
             VS add-ins, optimizing its performance via caching
           - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
+            in a codebase, reducing the time from $$\mathcal{O}(n^2)$$
+            to $$\mathcal{O}(n \log n)$$
           - Created a test case generation tool that creates random
             XML docs from XML Schema
           - Automated the extraction and processing of large datasets
@@ -78,14 +78,14 @@ cv:
         date: 2004-01
     projects:
       - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        date: '[github.com/name/repo](https://github.com/rendercv/rendercv)'
         highlights:
           - Developed an electronic classroom where multiple users
             can simultaneously view and draw on a "chalkboard"
             with each person's edits synchronized
           - 'Tools Used: C++, MFC'
       - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        date: '[github.com/name/repo](https://github.com/rendercv/rendercv)'
         highlights:
           - Developed a desktop calendar with globally shared
             and synchronized calendars, allowing users to schedule
@@ -140,5 +140,4 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
-  show_timespan_in:
-    - Experience
+  show_timespan_in: []

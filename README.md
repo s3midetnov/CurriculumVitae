@@ -85,6 +85,7 @@ JetBrains Scholarship in Neapolis University
 
 ## \href{https://disk.yandex.ru/i/52gkQhVjjRravA}{"Twisting numbers on braid and Thompson’s groups"}
 
+- 2024
 - N.Novgorod
 - Topological Methods in Dynamics and Related Topics VII
 

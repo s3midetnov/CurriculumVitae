@@ -80,8 +80,13 @@ JetBrains Scholarship in Neapolis University
 
 ## \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
 
-- Saint Petersburg
+- Saint-Petersburg
 - St. Petersburg Seminar on Representation Theory and Dynamical Systems
+
+## \href{https://disk.yandex.ru/i/52gkQhVjjRravA}{"Twisting numbers on braid and Thompson’s groups"}
+
+- N.Novgorod
+- Topological Methods in Dynamics and Related Topics VII
 
 # Work Experience
 
@@ -106,6 +111,7 @@ JetBrains Scholarship in Neapolis University
 - Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
 - 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
 - Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
-- English level C1 (IELTS 8.0/9)
+- English level C1 (IELTS 8.0/9, taken in 2020, 2024)
 - Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
 - Created mathematical problem for 2024 International Tournament of Young Mathematicians (\href{https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view}{10th in here}).
+- Invited judge in International Tournament of Young Mathematicians 2024

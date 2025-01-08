@@ -65,10 +65,12 @@ JetBrains Scholarship in Neapolis University
 ## Laboratory for continuous mathematical education, mathematics teacher for gifted students. I was teaching introduction to group theory.
 
 - 2021 – 2023
+- Saint-Petersburg, Russia
 
 ## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course "Braid and knot theory"
 
 - June 2023
+- Saint-Petersburg, Russia
 
 # Selected Talks
 
@@ -80,13 +82,13 @@ JetBrains Scholarship in Neapolis University
 
 ## \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
 
-- Saint-Petersburg
+- Saint-Petersburg, Russia
 - St. Petersburg Seminar on Representation Theory and Dynamical Systems
 
 ## \href{https://disk.yandex.ru/i/52gkQhVjjRravA}{"Twisting numbers on braid and Thompson’s groups"}
 
 - 2024
-- N.Novgorod
+- N.Novgorod, Russia
 - Topological Methods in Dynamics and Related Topics VII
 
 # Work Experience

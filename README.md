@@ -55,6 +55,8 @@ Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom nef
 
 JetBrains Scholarship in Neapolis University
 
+Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
+
 # Teaching Experience
 
 ## Sirius educational center, Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}

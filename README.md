@@ -64,7 +64,7 @@ Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements
 - Apr 2024 – May 2024
 - Sochi, Russia
 
-## Laboratory for continuous mathematical education, mathematics teacher for gifted students. I was teaching introduction to group theory.
+## Laboratory for continuous mathematical education, mathematics teacher for gifted students
 
 - 2021 – 2023
 - Saint-Petersburg, Russia
@@ -101,7 +101,7 @@ Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements
 - Pafos, Cyprus
 - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
 - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
-- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release})
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
 
 ## IPONWEB (acquired by Criteo), Machine Learning Intern
 

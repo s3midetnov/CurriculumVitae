@@ -43,6 +43,10 @@ Picture this:
 
 - 2022 – 2024
 
+## University of Geneva, M.Sc in Mathematics
+
+- 2025 – 2027
+
 # Publications
 
 ## \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups} ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
@@ -56,6 +60,8 @@ Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom nef
 JetBrains Scholarship in Neapolis University
 
 Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
+
+Excellence fellowship in Geneva University 2025
 
 # Teaching Experience
 

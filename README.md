@@ -37,7 +37,7 @@ Picture this:
 
 - Group theory (Nilpotent groups, homologies of groups)
 - Simplicial homotopy theory (Simplicial models for spheres based on braid groups)
-- Barratt-Priddy-Qillen type theorems
+- Barratt-Priddy-Quillen type theorems
 # Education
 
 ## Saint-Petersburg State University, BS in Mathematics

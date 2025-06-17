@@ -33,6 +33,11 @@ Picture this:
 - Location: Saint-Petersburg
 
 
+# Research Interests
+
+- Group theory (Nilpotent groups, homologies of groups)
+- Simplicial homotopy theory (Simplicial models for spheres based on braid groups)
+- Barratt-Priddy-Qillen type theorems
 # Education
 
 ## Saint-Petersburg State University, BS in Mathematics
@@ -52,6 +57,13 @@ Picture this:
 ## \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups} ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
 - May 2021
 - ***Artem Semidetnov***, Ruslan Magdiev
+
+## Abstract Thompson's groups (to appear) 
+- 2025
+- ***Artem Semidetnov***
+
+## On the localization of groups with respect to a ring (to appear) 
+- Sergei O. Ivanov, Georgii Kadantsev, Aleksandr Krasilnikov, ***Artem Semidetnov***
 
 # Awards and Scholarships
 

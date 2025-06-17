@@ -27,6 +27,10 @@ cv:
     #       start writing your section!
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.'
+    research interests:
+      - bullet: Group theory (Nilpotent groups, homologies of groups)
+      - bullet: Simplicial homotopy theory (Simplicial models for spheres based on braid groups)
+      - bullet: Barratt-Priddy-Qillen type theorems
     education:
       - institution: Saint-Petersburg State University
         area: Mathematics
@@ -54,6 +58,16 @@ cv:
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
         date: 2021-05-31
+      - title: Abstract Thompson's groups (to appear)
+        authors:
+          - '***Artem Semidetnov***'
+        date: 2025        
+      - title: On the localization of groups with respect to a ring (to appear)
+        authors:  
+          - Sergei O. Ivanov 
+          - Georgii Kadantsev
+          - Aleksandr Krasilnikov
+          - '***Artem Semidetnov***'
     awards and scholarships: 
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University

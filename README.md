@@ -111,6 +111,12 @@ Excellence fellowship in Geneva University 2025
 - N.Novgorod, Russia
 - Topological Methods in Dynamics and Related Topics VII
 
+## \href{https://cs.hse.ru/mirror/pubs/share/1075346122}{"Plus construction and simplicial methods"}
+
+- Aug 2025
+- Pushkin, Russia
+- \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
+
 # Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
@@ -138,3 +144,4 @@ Excellence fellowship in Geneva University 2025
 - Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
 - Created mathematical problem for 2024 International Tournament of Young Mathematicians (\href{https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view}{10th in here}).
 - Invited judge in International Tournament of Young Mathematicians 2024
+- \href{https://eteam.tfjm.org/about-us-2025/}{A member of Scientific Organization Committee in ETEAM 2025}

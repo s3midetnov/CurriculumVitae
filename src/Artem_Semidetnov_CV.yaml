@@ -104,6 +104,11 @@ cv:
           - Topological Methods in Dynamics and Related Topics VII
         date: 2024
         location: N.Novgorod, Russia
+      - name: \href{https://cs.hse.ru/mirror/pubs/share/1075346122}{"Plus construction and simplicial methods"}
+        highlights: 
+          - \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
+        date: 2025-08
+        location: Pushkin, Russia
         
         
     work experience:
@@ -141,6 +146,7 @@ cv:
       - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
       - bullet: Created mathematical problem for 2024 International Tournament of Young Mathematicians (\href{https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view}{10th in here}). 
       - bullet: Invited judge in International Tournament of Young Mathematicians 2024
+      - bullet: \href{https://eteam.tfjm.org/about-us-2025/}{A member of Scientific Organization Committee in ETEAM 2025}
 
     # projects:
     #   - name: Multi-User Drawing Tool

@@ -46,7 +46,7 @@ cv:
         degree: BS
         start_date: 2022
         end_date: 2024
-      - institution: University of Geneva
+      - institution: Saint-Petersburg State University
         area: Mathematics
         degree: M.Sc
         start_date: 2025
@@ -62,6 +62,15 @@ cv:
         authors:
           - '***Artem Semidetnov***'
         date: 2025        
+      - title: Polynomial functors from representations (to appear)
+        authors:
+          - Vladislav Romanovskii
+          - '***Artem Semidetnov***'
+        date: 2025
+      - title: Operads from crossed simplicial groups
+        authors: 
+           - '***Artem Semidetnov***'
+        date: 2025
       - title: On the localization of groups with respect to a ring (to appear)
         authors:  
           - Sergei O. Ivanov 
@@ -72,8 +81,7 @@ cv:
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University
       - Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
-        # start_date: 2023-2024
-      - Excellence fellowship in Geneva University 2025
+        # start_date: 2023-2024      
     teaching experience:
       - company: Sirius educational center
         position: Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}

@@ -48,7 +48,7 @@ Picture this:
 
 - 2022 – 2024
 
-## University of Geneva, M.Sc in Mathematics
+## Saint-Petersburg State University, M.Sc in Mathematics
 
 - 2025 – 2027
 
@@ -62,6 +62,14 @@ Picture this:
 - 2025
 - ***Artem Semidetnov***
 
+## Polynomial functors from representations (to appear) 
+- 2025
+- Vladislav Romanovskii, ***Artem Semidetnov***
+
+## Operads from crossed simplicial groups 
+- 2025
+- ***Artem Semidetnov***
+
 ## On the localization of groups with respect to a ring (to appear) 
 - Sergei O. Ivanov, Georgii Kadantsev, Aleksandr Krasilnikov, ***Artem Semidetnov***
 
@@ -72,8 +80,6 @@ Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom nef
 JetBrains Scholarship in Neapolis University
 
 Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
-
-Excellence fellowship in Geneva University 2025
 
 # Teaching Experience
 

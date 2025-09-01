@@ -26,25 +26,11 @@ cv:
     #   - bullet: Select a section title, pick an entry type, and
     #       start writing your section!
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-    #       you can find a comprehensive user guide for RenderCV.
-    work experience:
-      - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
-        location: Pafos, Cyprus
-        start_date: 2024-06
-        end_date: 2024-09
-        highlights:
-          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following. 
-          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types. 
-          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
-      - company: IPONWEB (acquired by Criteo)
-        position: Machine Learning Intern
-        location: Pafos, Cyprus
-        start_date: 2023-05
-        end_date: 2023-09
-        highlights:
-          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications. 
-     
+    #       you can find a comprehensive user guide for RenderCV.'
+    research interests:
+      - bullet: Group theory (Nilpotent groups, homologies of groups)
+      - bullet: Simplicial homotopy theory (Simplicial models for spheres based on braid groups)
+      - bullet: Barratt-Priddy-Quillen type theorems
     education:
       - institution: Saint-Petersburg State University
         area: Mathematics
@@ -60,23 +46,22 @@ cv:
         degree: BS
         start_date: 2022
         end_date: 2024
-      - institution: Geneva University
+      - institution: Saint-Petersburg State University
         area: Mathematics
         degree: M.Sc
         start_date: 2025
         end_date: 2027
-    technologies:
-      - label: Languages
-        details: Python, Java, Kotlin, SQL, Haskell
-      - label: Technologies
-        details: docker, PyTorch
     publications:
       - title: \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups}
         authors:
           - '***Artem Semidetnov***'
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
-        date: 2021-05-31        
+        date: 2021-05-31
+      - title: Abstract Thompson's groups (to appear)
+        authors:
+          - '***Artem Semidetnov***'
+        date: 2025        
       - title: Polynomial functors from representations (to appear)
         authors:
           - Vladislav Romanovskii
@@ -86,6 +71,12 @@ cv:
         authors: 
            - '***Artem Semidetnov***'
         date: 2025
+      - title: On the localization of groups with respect to a ring (to appear)
+        authors:  
+          - Sergei O. Ivanov 
+          - Georgii Kadantsev
+          - Aleksandr Krasilnikov
+          - '***Artem Semidetnov***'
     awards and scholarships: 
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University
@@ -126,7 +117,26 @@ cv:
           - \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
         date: 2025-08
         location: Pushkin, Russia
-         # - title: On the geometry of free nilpotent groups
+        
+        
+    work experience:
+      - company: JetBrains
+        position: Research Intern in HoTT and Dependent Types Lab
+        location: Pafos, Cyprus
+        start_date: 2024-06
+        end_date: 2024-09
+        highlights:
+          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following. 
+          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types. 
+          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
+      - company: IPONWEB (acquired by Criteo)
+        position: Machine Learning Intern
+        location: Pafos, Cyprus
+        start_date: 2023-05
+        end_date: 2023-09
+        highlights:
+          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications. 
+      # - title: On the geometry of free nilpotent groups
       #   authors:
       #     - Frodo Baggins
       #     - '***John Doe***'
@@ -167,6 +177,11 @@ cv:
     #       - Built a UNIX-style OS with a scheduler, file system,
     #         text editor, and calculator
     #       - 'Tools Used: C'
+    # technologies:
+    #   - label: Languages
+    #     details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+    #   - label: Technologies
+    #     details: .NET, Microsoft SQL Server, XCode, Interface
     #       Builder
     # projects:
     #   - name: Multi-User Drawing Tool

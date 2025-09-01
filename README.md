@@ -28,9 +28,8 @@ Picture this:
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
 # Artem Semidetnov's CV
 
-- Phone: +7 921 363 89 09
 - Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
-- Location: Saint-Petersburg
+- Location: Geneve, Switzerland
 
 
 # Work Experience

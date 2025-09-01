@@ -33,11 +33,22 @@ Picture this:
 - Location: Saint-Petersburg
 
 
-# Research Interests
+# Work Experience
 
-- Group theory (Nilpotent groups, homologies of groups)
-- Simplicial homotopy theory (Simplicial models for spheres based on braid groups)
-- Barratt-Priddy-Quillen type theorems
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
+
+- June 2024 – Sept 2024
+- Pafos, Cyprus
+- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+- Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
+
+## IPONWEB (acquired by Criteo), Machine Learning Intern
+
+- May 2023 – Sept 2023
+- Pafos, Cyprus
+- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
+
 # Education
 
 ## Saint-Petersburg State University, BS in Mathematics
@@ -48,19 +59,19 @@ Picture this:
 
 - 2022 – 2024
 
-## Saint-Petersburg State University, M.Sc in Mathematics
+## Geneva University, M.Sc in Mathematics
 
 - 2025 – 2027
 
+# Technologies
+
+- Languages: Python, Java, Kotlin, SQL, Haskell
+- Technologies: docker, PyTorch
 # Publications
 
 ## \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups} ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
 - May 2021
 - ***Artem Semidetnov***, Ruslan Magdiev
-
-## Abstract Thompson's groups (to appear) 
-- 2025
-- ***Artem Semidetnov***
 
 ## Polynomial functors from representations (to appear) 
 - 2025
@@ -69,9 +80,6 @@ Picture this:
 ## Operads from crossed simplicial groups 
 - 2025
 - ***Artem Semidetnov***
-
-## On the localization of groups with respect to a ring (to appear) 
-- Sergei O. Ivanov, Georgii Kadantsev, Aleksandr Krasilnikov, ***Artem Semidetnov***
 
 # Awards and Scholarships
 
@@ -122,22 +130,6 @@ Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements
 - Aug 2025
 - Pushkin, Russia
 - \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
-
-# Work Experience
-
-## JetBrains, Research Intern in HoTT and Dependent Types Lab
-
-- June 2024 – Sept 2024
-- Pafos, Cyprus
-- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
-- Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
-- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
-
-## IPONWEB (acquired by Criteo), Machine Learning Intern
-
-- May 2023 – Sept 2023
-- Pafos, Cyprus
-- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
 
 # Miscellaneous
 

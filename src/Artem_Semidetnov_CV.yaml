@@ -64,12 +64,7 @@ cv:
         start_date: 2023-05
         end_date: 2023-09
         highlights:
-          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications. 
-    technologies:
-      - label: Languages
-        details: Python, Java, Kotlin, SQL, Haskell
-      - label: Technologies
-        details: docker, PyTorch
+          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.     
     publications:
       - title: \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups}
         authors:

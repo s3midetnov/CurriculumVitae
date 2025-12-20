@@ -27,6 +27,24 @@ cv:
     #       start writing your section!
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
+    work experience:
+      - company: JetBrains
+        position: Research Intern in HoTT and Dependent Types Lab
+        location: Pafos, Cyprus
+        start_date: 2024-06
+        end_date: 2024-09
+        highlights:
+          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following. 
+          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types. 
+          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
+      - company: IPONWEB (acquired by Criteo)
+        position: Machine Learning Intern
+        location: Pafos, Cyprus
+        start_date: 2023-05
+        end_date: 2023-09
+        highlights:
+          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications. 
+     
     education:
       - institution: Saint-Petersburg State University
         area: Mathematics
@@ -47,24 +65,6 @@ cv:
         degree: M.Sc
         start_date: 2025
         end_date: 2027
-    
-    work experience:
-      - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
-        location: Pafos, Cyprus
-        start_date: 2024-06
-        end_date: 2024-09
-        highlights:
-          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following. 
-          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types. 
-          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
-      - company: IPONWEB (acquired by Criteo)
-        position: Machine Learning Intern
-        location: Pafos, Cyprus
-        start_date: 2023-05
-        end_date: 2023-09
-        highlights:
-          - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications. 
     technologies:
       - label: Languages
         details: Python, Java, Kotlin, SQL, Haskell
@@ -76,17 +76,21 @@ cv:
           - '***Artem Semidetnov***'
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
-        date: 2021-05-31              
-      - title: \href{https://arxiv.org/pdf/2512.14498}{The operad associated to a crossed simplicial group}
+        date: 2021-05-31        
+      - title: Polynomial functors from representations (to appear)
+        authors:
+          - Vladislav Romanovskii
+          - '***Artem Semidetnov***'
+        date: 2025
+      - title: Operads from crossed simplicial groups
         authors: 
            - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2512.14498
         date: 2025
     awards and scholarships: 
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University
       - Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
-      - \href{https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025}{Excellence Master Fellowship at Geneva University}
+        # start_date: 2023-2024      
     teaching experience:
       - company: Sirius educational center
         position: Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}

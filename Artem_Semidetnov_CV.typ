@@ -455,7 +455,7 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#strong[BS]],
+  left-content: [#strong[BSc]],
   middle-content: [
     #strong[Saint-Petersburg State University], Mathematics
   ],
@@ -468,7 +468,7 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#strong[BS]],
+  left-content: [#strong[BSc]],
   middle-content: [
     #strong[Neapolis University Of Pafos], Applied Computer Science JetBrains Program
   ],
@@ -481,7 +481,7 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#strong[M.Sc]],
+  left-content: [#strong[MSc]],
   middle-content: [
     #strong[Geneva University], Mathematics
   ],
@@ -543,7 +543,7 @@ May 2023 – Sept 2023
 
 #two-col-entry(
   left-content: [
-    #strong[\\href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups}]
+    #link("https://arxiv.org/pdf/2106.00095")[#strong[On the geometry of free nilpotent groups]]
 
   ],
   right-content: [
@@ -558,7 +558,7 @@ May 2023 – Sept 2023
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[\\href{https://arxiv.org/pdf/2512.14498}{The operad associated to a crossed simplicial group}]
+    #link("https://arxiv.org/pdf/2512.14498")[#strong[The operad associated to a crossed simplicial group]]
 
   ],
   right-content: [
@@ -583,11 +583,11 @@ May 2023 – Sept 2023
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Travel grant of Chebyshev laboratory for \\href{https://math.hse.ru/announcements/981291875.html?\_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow]
+  content: [Travel grant of Chebyshev laboratory for #link("https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK")[Winter student school in mathematics and CS of HSE and MCS], Moscow]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [\\href{https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025}{Excellence Master Fellowship at Geneva University}]
+  content: [#link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[Excellence Master Fellowship at Geneva University]]
 )
 
 
@@ -595,7 +595,7 @@ May 2023 – Sept 2023
 
 #two-col-entry(
   left-content: [
-    #strong[Sirius educational center], Teaching assistant on the course \\href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{\"Groups of intermediate growth
+    #strong[Sirius educational center], Teaching assistant on the course #link("https://sochisirius.ru/obuchenie/nauka/smena1783/8258")[\"Groups of intermediate growth\"]
 
     
   ],
@@ -655,7 +655,7 @@ June 2023
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[\\href{https://m.mathnet.ru/php/seminars.phtml?option\_lang=rus&presentid=34355}{\"On the Poisson boundary of lamplighter groups\"}]
+    #link("https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355")[#strong[\"On the Poisson boundary of lamplighter groups\"]]
   ],
   right-content: [
     Saint-Petersburg, Russia
@@ -670,7 +670,7 @@ June 2023
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[\\href{https://disk.yandex.ru/i/52gkQhVjjRravA}{\"Twisting numbers on braid and Thompson’s groups\"}]
+    #link("https://disk.yandex.ru/i/52gkQhVjjRravA")[#strong[\"Twisting numbers on braid and Thompson’s groups\"]]
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Topological Methods in Dynamics and Related Topics VII],)
@@ -685,10 +685,10 @@ June 2023
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[\\href{https://cs.hse.ru/mirror/pubs/share/1075346122}{\"Plus construction and simplicial methods\"}]
+    #link("https://cs.hse.ru/mirror/pubs/share/1075346122")[#strong[\"Plus construction and simplicial methods\"]]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([\\href{https://cs.hse.ru/ata-lab/atgcda25}{Conference \"Algebraic Topology, geometry, combinatorics, and data analysis\"}],)
+    #v(design-highlights-top-margin);#highlights([#link("https://cs.hse.ru/ata-lab/atgcda25")[Conference \"Algebraic Topology, geometry, combinatorics, and data analysis\"]],)
   ],
   right-content: [
     Pushkin, Russia
@@ -714,11 +714,11 @@ Aug 2025
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- 3rd team place in 2019 \\href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain],
+  content: [- 3rd team place in 2019 #link("https://www.itym.org")[International Tournament of Young Mathematicians] in Barcelona, Spain],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Organizer of the \\href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}],
+  content: [- Organizer of the #link("https://indico.eimi.ru/category/102/")[Euler International Mathematical Institute's functional analysis seminar]],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -730,15 +730,15 @@ Aug 2025
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Created mathematical problem for 2024 International Tournament of Young Mathematicians \(\\href{https://drive.google.com/file/d/1d4dqKrTKG6MI\_cYQwnos8iDJWCuVIs4I/view}{10th in here}\).],
+  content: [- Created mathematical problem for 2024 International Tournament of Young Mathematicians #link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[10th in here]],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Invited judge in International Tournament of Young Mathematicians 2024],
+  content: [- Invited judge in International Tournament of Young Mathematicians 2024, 2025],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- \\href{https://eteam.tfjm.org/about-us-2025/}{A member of Scientific Organization Committee in ETEAM 2025}],
+  content: [- #link("https://eteam.tfjm.org/about-us-2025/")[A member of Scientific Organization Committee in ETEAM 2025]],
 )
 
 

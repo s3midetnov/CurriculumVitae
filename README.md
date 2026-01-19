@@ -71,7 +71,7 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - 2021 – 2023
 - Saint-Petersburg, Russia
 
-## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course '"Braid and knot theory"'
+## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course Braid and knot theory"\;
 
 - June 2023
 - Saint-Petersburg, Russia

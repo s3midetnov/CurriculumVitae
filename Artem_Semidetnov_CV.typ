@@ -623,7 +623,7 @@ Apr 2024 – May 2024
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Mathematics and Computer Science faculty program for prospective students], Teaching assistant on the course '\"Braid and knot theory
+    #strong[Mathematics and Computer Science faculty program for prospective students], Teaching assistant on the course Braid and knot theory
 
     
   ],

@@ -31,7 +31,7 @@
 - Pafos, Cyprus
 - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
 - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
-- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
 
 ## IPONWEB (acquired by Criteo), Machine Learning Intern
 
@@ -46,7 +46,7 @@
 - ***Artem Semidetnov***, Ruslan Magdiev
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
-- 2025
+- Dec 2025
 - ***Artem Semidetnov***
 
 # Awards and Scholarships
@@ -71,7 +71,7 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - 2021 – 2023
 - Saint-Petersburg, Russia
 
-## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course "Braid and knot theory"
+## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course '"Braid and knot theory"'
 
 - June 2023
 - Saint-Petersburg, Russia

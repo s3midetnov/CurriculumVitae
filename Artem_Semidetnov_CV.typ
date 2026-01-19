@@ -513,7 +513,7 @@ Nov 2025 – present
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.],[Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.],[Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. \(Some of these results are in the \\href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}\).],)
+    #v(design-highlights-top-margin);#highlights([I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.],[Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.],[Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. \(Some of these results are in the #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[1.10 release]\).],)
   ],
   right-content: [
     Pafos, Cyprus
@@ -562,7 +562,7 @@ May 2023 – Sept 2023
 
   ],
   right-content: [
-    2025
+    Dec 2025
   ],
 )
 #one-col-entry(content:[
@@ -623,7 +623,7 @@ Apr 2024 – May 2024
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Mathematics and Computer Science faculty program for prospective students], Teaching assistant on the course \"Braid and knot theory
+    #strong[Mathematics and Computer Science faculty program for prospective students], Teaching assistant on the course '\"Braid and knot theory
 
     
   ],

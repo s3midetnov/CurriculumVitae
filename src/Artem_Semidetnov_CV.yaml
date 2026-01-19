@@ -51,6 +51,10 @@ cv:
     work experience:
       - company: JetBrains
         position: Research Intern in HoTT and Dependent Types Lab
+        location: Remote
+        start_date: 2025-11
+      - company: JetBrains
+        position: Research Intern in HoTT and Dependent Types Lab
         location: Pafos, Cyprus
         start_date: 2024-06
         end_date: 2024-09
@@ -117,14 +121,6 @@ cv:
           - \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
         date: 2025-08
         location: Pushkin, Russia
-         # - title: On the geometry of free nilpotent groups
-      #   authors:
-      #     - Frodo Baggins
-      #     - '***John Doe***'
-      #     - Samwise Gamgee
-      #   doi: 10.1109/TASC.2023.3340648
-      #   date: 2004-01
-
     miscellaneous:
       - bullet: Finalist of 2020 Intel ISEF
       - bullet: Intel ISEF alumni

@@ -70,13 +70,13 @@ cv:
         highlights:
           - Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.     
     publications:
-      - title: [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095)
+      - title: '[On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095)'
         authors:
           - '***Artem Semidetnov***'
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
         date: 2021-05-31              
-      - title: [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)
+      - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'
         authors: 
            - '***Artem Semidetnov***'
         doi: https://doi.org/10.48550/arXiv.2512.14498
@@ -85,7 +85,7 @@ cv:
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University
       - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
-      - [Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
+      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
     teaching experience:
       - company: Sirius educational center
         position: Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
@@ -107,18 +107,18 @@ cv:
         highlights: 
           - Siberian summer conference
         date: 2021
-      - name: ["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)
+      - name: '["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
         highlights: 
           - St. Petersburg Seminar on Representation Theory and Dynamical Systems
         location: Saint-Petersburg, Russia
-      - name: ["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)
+      - name: '["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)'
         highlights: 
           - Topological Methods in Dynamics and Related Topics VII
         date: 2024
         location: N.Novgorod, Russia
-      - name: ["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)
+      - name: '["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)'
         highlights: 
-          - [Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)
+          - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
         date: 2025-08
         location: Pushkin, Russia
     miscellaneous:
@@ -131,7 +131,7 @@ cv:
       - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
       - bullet: Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
       - bullet: Invited judge in International Tournament of Young Mathematicians 2024, 2025
-      - bullet: [A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)
+      - bullet: '[A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)'
 
     # projects:
     #   - name: Multi-User Drawing Tool

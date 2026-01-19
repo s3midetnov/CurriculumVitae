@@ -99,7 +99,7 @@ cv:
         end_date: 2023
       - company: Mathematics and Computer Science faculty program for prospective students
         location: Saint-Petersburg, Russia
-        position: Teaching assistant on the course '"Braid and knot theory"'
+        position: 'Teaching assistant on the course Braid and knot theory"\;'
         date: 2023-06
     selected talks: 
       - name: "On the geometry of free nilpotent groups"

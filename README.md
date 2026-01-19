@@ -1,79 +1,115 @@
-# John Doe's CV
+# Artem Semidetnov's CV
 
-- Phone: +1 609 999 9995
-- Email: [john.doe@example.com](mailto:john.doe@example.com)
-- Location: Location
-- LinkedIn: [john.doe](https://linkedin.com/in/john.doe)
-- GitHub: [john.doe](https://github.com/john.doe)
+- Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
+- Location: Geneve, Switzerland
 
-
-# Welcome to RenderCV!
-
-[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.
-
-Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
 
 # Education
 
-## Stanford University, PhD in Computer Science
+## Saint-Petersburg State University, BS in Mathematics
 
-- Sept 2023 – present
-- Stanford, CA, USA
-- Working on the optimization of autonomous vehicles in urban environments
+- 2021 – 2025
 
-## Boğaziçi University, BS in Computer Engineering
+## Neapolis University Of Pafos, BS in Applied Computer Science JetBrains Program
 
-- Sept 2018 – June 2022
-- Istanbul, Türkiye
-- GPA: 3.9/4.0, ranked 1st out of 100 students
-- Awards: Best Senior Project, High Honor
+- 2022 – 2024
 
-# Experience
+## Geneva University, M.Sc in Mathematics
 
-## Company C, Summer Intern
+- 2025 – 2027
+
+# Work Experience
+
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
+
+- Nov 2025 – present
+- Remote
+
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
 - June 2024 – Sept 2024
-- Livingston, LA, USA
-- Developed deep learning models for the detection of gravitational waves in LIGO data
-- Published [3 peer-reviewed research papers](https://example.com) about the project and results
+- Pafos, Cyprus
+- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+- Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
 
-## Company B, Summer Intern
+## IPONWEB (acquired by Criteo), Machine Learning Intern
 
-- June 2023 – Sept 2023
-- Ankara, Türkiye
-- Optimized the production line by 15% by implementing a new scheduling algorithm
+- May 2023 – Sept 2023
+- Pafos, Cyprus
+- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
 
-## Company A, Summer Intern
-
-- June 2022 – Sept 2022
-- Istanbul, Türkiye
-- Designed an inventory management web application for a warehouse
-
-# Projects
-
-## [Example Project](https://example.com)
-
-- May 2024 – present
-- Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-- The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-
-## [Teaching on Udemy](https://example.com)
-
-- Fall 2023
-- Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
-
-# Skills
-
-- Programming: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-- Mathematics: Good understanding of differential equations, calculus, and linear algebra
-- Languages: English (fluent, TOEFL: 118/120), Turkish (native)
 # Publications
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+## \href{https://arxiv.org/pdf/2106.00095}{On the geometry of free nilpotent groups} ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
+- May 2021
+- ***Artem Semidetnov***, Ruslan Magdiev
 
-# Extracurricular Activities
+## \href{https://arxiv.org/pdf/2512.14498}{The operad associated to a crossed simplicial group} ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
+- 2025
+- ***Artem Semidetnov***
 
-- There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Each entry type has a different structure and layout. This document demonstrates all of them.
+# Awards and Scholarships
+
+Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+
+JetBrains Scholarship in Neapolis University
+
+Travel grant of Chebyshev laboratory for \href{https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK}{Winter student school in mathematics and CS of HSE and MCS}, Moscow
+
+\href{https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025}{Excellence Master Fellowship at Geneva University}
+
+# Teaching Experience
+
+## Sirius educational center, Teaching assistant on the course \href{https://sochisirius.ru/obuchenie/nauka/smena1783/8258}{"Groups of intermediate growth"}
+
+- Apr 2024 – May 2024
+- Sochi, Russia
+
+## Laboratory for continuous mathematical education, mathematics teacher for gifted students
+
+- 2021 – 2023
+- Saint-Petersburg, Russia
+
+## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course "Braid and knot theory"
+
+- June 2023
+- Saint-Petersburg, Russia
+
+# Selected Talks
+
+## On the geometry of free nilpotent groups
+
+- 2021
+- Novosibirsk, Russia
+- Siberian summer conference
+
+## \href{https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355}{"On the Poisson boundary of lamplighter groups"}
+
+- Saint-Petersburg, Russia
+- St. Petersburg Seminar on Representation Theory and Dynamical Systems
+
+## \href{https://disk.yandex.ru/i/52gkQhVjjRravA}{"Twisting numbers on braid and Thompson’s groups"}
+
+- 2024
+- N.Novgorod, Russia
+- Topological Methods in Dynamics and Related Topics VII
+
+## \href{https://cs.hse.ru/mirror/pubs/share/1075346122}{"Plus construction and simplicial methods"}
+
+- Aug 2025
+- Pushkin, Russia
+- \href{https://cs.hse.ru/ata-lab/atgcda25}{Conference "Algebraic Topology, geometry, combinatorics, and data analysis"}
+
+# Miscellaneous
+
+- Finalist of 2020 Intel ISEF
+- Intel ISEF alumni
+- Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
+- 3rd team place in 2019 \href{https://www.itym.org}{International Tournament of Young Mathematicians} in Barcelona, Spain
+- Organizer of the \href{https://indico.eimi.ru/category/102/}{Euler International Mathematical Institute's functional analysis seminar}
+- English level C1 (IELTS 8.0/9, taken in 2020, 2024)
+- Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+- Created mathematical problem for 2024 International Tournament of Young Mathematicians (\href{https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view}{10th in here}).
+- Invited judge in International Tournament of Young Mathematicians 2024
+- \href{https://eteam.tfjm.org/about-us-2025/}{A member of Scientific Organization Committee in ETEAM 2025}

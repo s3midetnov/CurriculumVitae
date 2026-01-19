@@ -61,7 +61,7 @@ cv:
         highlights:
           - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following. 
           - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types. 
-          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the \href{https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html}{1.10 release}).
+          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
       - company: IPONWEB (acquired by Criteo)
         position: Machine Learning Intern
         location: Pafos, Cyprus
@@ -80,7 +80,7 @@ cv:
         authors: 
            - '***Artem Semidetnov***'
         doi: https://doi.org/10.48550/arXiv.2512.14498
-        date: 2025
+        date: 2025-12-16
     awards and scholarships: 
       - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
       - JetBrains Scholarship in Neapolis University
@@ -99,7 +99,7 @@ cv:
         end_date: 2023
       - company: Mathematics and Computer Science faculty program for prospective students
         location: Saint-Petersburg, Russia
-        position: Teaching assistant on the course "Braid and knot theory"
+        position: Teaching assistant on the course '"Braid and knot theory"'
         date: 2023-06
     selected talks: 
       - name: "On the geometry of free nilpotent groups"

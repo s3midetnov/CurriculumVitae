@@ -497,8 +497,9 @@
 #two-col-entry(
   left-content: [
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
+    #v(-design-text-leading)
 
-    
+    #v(design-highlights-top-margin);#highlights([Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.],[Developed an experimental LLM agent for writing Arend code using framework Koog.],[Fine-tuned models for Arend code completion.],)
   ],
   right-content: [
     Remote
@@ -513,7 +514,7 @@ Nov 2025 – present
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.],[Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.],[Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. \(Some of these results are in the #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[1.10 release]\).],)
+    #v(design-highlights-top-margin);#highlights([Developed the official library in the Arend language.],[Formalized different results in algebra and homotopy type theory, including following.],[Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.],[Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. \(Some of these results are in the #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[1.10 release]\).],)
   ],
   right-content: [
     Pafos, Cyprus
@@ -528,7 +529,7 @@ June 2024 – Sept 2024
     #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.],)
+    #v(design-highlights-top-margin);#highlights([Criteo has a ML tool that analyzes sites and produces word-2-vec representations. My task was to reverse-engineer the behaviour of this tool and analyze its possible applications.],)
   ],
   right-content: [
     Pafos, Cyprus
@@ -739,6 +740,13 @@ Aug 2025
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [- #link("https://eteam.tfjm.org/about-us-2025/")[A member of Scientific Organization Committee in ETEAM 2025]],
+)
+
+
+== Selected Conferences and Workshops
+
+#one-col-entry(
+  content: [- #link("https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants")[Winterbraids 2026] in Marseille, France],
 )
 
 

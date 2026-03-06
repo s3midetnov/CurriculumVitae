@@ -24,12 +24,16 @@
 
 - Nov 2025 – present
 - Remote
+- Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
+- Developed an experimental LLM agent for writing Arend code using framework Koog.
+- Fine-tuned models for Arend code completion.
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
 - June 2024 – Sept 2024
 - Pafos, Cyprus
-- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+- Developed the official library in the Arend language.
+- Formalized different results in algebra and homotopy type theory, including following.
 - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
 - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
 
@@ -37,7 +41,7 @@
 
 - May 2023 – Sept 2023
 - Pafos, Cyprus
-- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
+- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. My task was to reverse-engineer the behaviour of this tool and analyze its possible applications.
 
 # Publications
 
@@ -113,3 +117,6 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
 - Invited judge in International Tournament of Young Mathematicians 2024, 2025
 - [A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)
+# Selected Conferences and Workshops
+
+- [Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France

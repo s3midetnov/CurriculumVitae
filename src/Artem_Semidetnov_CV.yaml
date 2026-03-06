@@ -127,7 +127,9 @@ cv:
         date: 2025-08
         location: Pushkin, Russia
     selected conferences and workshops:
-      - bullet: '[Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France'
+      - bullet: 'School on braids and low dimensional topology [Winter Braids XV](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants)'
+        date: 2026-03
+        location: Marseille, France
     miscellaneous:
       - bullet: Finalist of 2020 Intel ISEF
       - bullet: Intel ISEF alumni

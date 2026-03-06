@@ -703,7 +703,7 @@ Aug 2025
 == Selected Conferences and Workshops
 
 #one-col-entry(
-  content: [- #link("https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants")[Winterbraids 2026] in Marseille, France],
+  content: [- School on braids and low dimensional topology #link("https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants")[Winter Braids XV]],
 )
 
 

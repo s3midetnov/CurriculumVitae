@@ -54,7 +54,7 @@ cv:
         location: Remote
         highlights:
           - 'Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.'
-          - 'Developed an experimental LLM agent for writing Arend code using framework Koog.'
+          - 'Developed an experimental LLM coding agent for writing Arend code using framework Koog.'
           - 'Fine-tuned models for Arend code completion.'
         start_date: 2025-11
       - company: JetBrains
@@ -126,6 +126,8 @@ cv:
           - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
         date: 2025-08
         location: Pushkin, Russia
+    selected conferences and workshops:
+      - bullet: '[Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France'
     miscellaneous:
       - bullet: Finalist of 2020 Intel ISEF
       - bullet: Intel ISEF alumni
@@ -137,8 +139,6 @@ cv:
       - bullet: Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
       - bullet: Invited judge in International Tournament of Young Mathematicians 2024, 2025
       - bullet: '[A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)'
-    selected conferences and workshops:
-      - bullet: '[Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France'
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'

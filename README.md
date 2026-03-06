@@ -107,7 +107,7 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 
 # Selected Conferences and Workshops
 
-- School on braids and low dimensional topology [Winter Braids XV](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants)
+- School on braids and low dimensional topology [Winter Braids XV](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France
 # Miscellaneous
 
 - Finalist of 2020 Intel ISEF

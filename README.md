@@ -25,7 +25,7 @@
 - Nov 2025 – present
 - Remote
 - Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
-- Developed an experimental LLM agent for writing Arend code using framework Koog.
+- Developed an experimental LLM coding agent for writing Arend code using framework Koog.
 - Fine-tuned models for Arend code completion.
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
@@ -105,6 +105,9 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - Pushkin, Russia
 - [Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)
 
+# Selected Conferences and Workshops
+
+- [Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France
 # Miscellaneous
 
 - Finalist of 2020 Intel ISEF
@@ -117,6 +120,3 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
 - Invited judge in International Tournament of Young Mathematicians 2024, 2025
 - [A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)
-# Selected Conferences and Workshops
-
-- [Winterbraids 2026](https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants) in Marseille, France

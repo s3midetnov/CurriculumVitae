@@ -499,7 +499,7 @@
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.],[Developed an experimental LLM agent for writing Arend code using framework Koog.],[Fine-tuned models for Arend code completion.],)
+    #v(design-highlights-top-margin);#highlights([Developed AI features for the Arend language: MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.],[Developed an experimental LLM coding agent for writing Arend code using framework Koog.],[Fine-tuned models for Arend code completion.],)
   ],
   right-content: [
     Remote
@@ -700,6 +700,13 @@ Aug 2025
 
 
 
+== Selected Conferences and Workshops
+
+#one-col-entry(
+  content: [- #link("https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants")[Winterbraids 2026] in Marseille, France],
+)
+
+
 == Miscellaneous
 
 #one-col-entry(
@@ -740,13 +747,6 @@ Aug 2025
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [- #link("https://eteam.tfjm.org/about-us-2025/")[A member of Scientific Organization Committee in ETEAM 2025]],
-)
-
-
-== Selected Conferences and Workshops
-
-#one-col-entry(
-  content: [- #link("https://winterbraids.math.cnrs.fr/archive/winterbraids15/index.php?page=wb_participants")[Winterbraids 2026] in Marseille, France],
 )
 
 

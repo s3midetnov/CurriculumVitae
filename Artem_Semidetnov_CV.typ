@@ -522,21 +522,6 @@ June 2024 – Sept 2024
   ],
 )
 
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.],)
-  ],
-  right-content: [
-    Pafos, Cyprus
-
-May 2023 – Sept 2023
-  ],
-)
-
 
 
 == Publications

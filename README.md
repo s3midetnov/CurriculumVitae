@@ -33,12 +33,6 @@
 - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
 - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
 
-## IPONWEB (acquired by Criteo), Machine Learning Intern
-
-- May 2023 – Sept 2023
-- Pafos, Cyprus
-- Criteo has a ML tool that analyzes sites and produces word-2-vec representations. In IPONWEB I was trying to reverse-engineer the behaviour of this tool and analyze its possible applications.
-
 # Publications
 
 ## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))

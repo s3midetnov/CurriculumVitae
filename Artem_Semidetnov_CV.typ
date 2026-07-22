@@ -682,6 +682,21 @@ Aug 2025
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf")[#strong[\"The operad associated to a crossed simplicial group\"]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Young Topologists Meeting 2026],)
+  ],
+  right-content: [
+    Copenhagen, Denmark
+
+July 2026
+  ],
+)
+
 
 
 == Miscellaneous

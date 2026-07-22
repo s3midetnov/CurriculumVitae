@@ -95,6 +95,12 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - Pushkin, Russia
 - [Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)
 
+## ["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)
+
+- July 2026
+- Copenhagen, Denmark
+- Young Topologists Meeting 2026
+
 # Miscellaneous
 
 - Finalist of 2020 Intel ISEF

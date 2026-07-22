@@ -114,6 +114,12 @@ cv:
           - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
         date: 2025-08
         location: Pushkin, Russia
+      - name: '["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
+        date: 2026-07
+        highlights: 
+          - Young Topologists Meeting 2026
+        location: Copenhagen, Denmark
+
     miscellaneous:
       - bullet: Finalist of 2020 Intel ISEF
       - bullet: Intel ISEF alumni

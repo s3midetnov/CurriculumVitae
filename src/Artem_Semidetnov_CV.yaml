@@ -54,6 +54,10 @@ cv:
         location: Remote
         start_date: 2025-11
         end_date: 2026-04
+        highlights:
+          - Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
+          - Developed an experimental LLM coding agent for writing Arend code using framework Koog.
+          - Fine-tuned models for Arend code completion.
       - company: JetBrains
         position: Research Intern in HoTT and Dependent Types Lab
         location: Pafos, Cyprus

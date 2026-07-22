@@ -497,13 +497,14 @@
 #two-col-entry(
   left-content: [
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
+    #v(-design-text-leading)
 
-    
+    #v(design-highlights-top-margin);#highlights([Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.],[Developed an experimental LLM coding agent for writing Arend code using framework Koog.],[Fine-tuned models for Arend code completion.],)
   ],
   right-content: [
     Remote
 
-Nov 2025 – present
+Nov 2025 – Apr 2026
   ],
 )
 

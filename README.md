@@ -20,7 +20,21 @@
 
 # Research Interests
 
-- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups); operads and simplicial methods.
+- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; operads and simplicial methods; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+# Publications
+
+## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
+- Aug 2026
+- ***Artem Semidetnov***
+
+## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
+- Dec 2025
+- ***Artem Semidetnov***
+
+## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
+- May 2021
+- ***Artem Semidetnov***, Ruslan Magdiev
+
 # Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
@@ -44,20 +58,6 @@
 - May 2023 – Sept 2023
 - Pafos, Cyprus
 - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
-
-# Publications
-
-## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
-- Aug 2026
-- ***Artem Semidetnov***
-
-## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
-- Dec 2025
-- ***Artem Semidetnov***
-
-## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
-- May 2021
-- ***Artem Semidetnov***, Ruslan Magdiev
 
 # Awards and Scholarships
 

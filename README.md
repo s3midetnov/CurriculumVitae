@@ -18,6 +18,9 @@
 
 - 2025 – 2027
 
+# Research Interests
+
+- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups); operads and simplicial methods.
 # Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
@@ -113,6 +116,14 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 - July 2026
 - Copenhagen, Denmark
 - Young Topologists Meeting 2026
+
+# Schools and Workshops
+
+## [Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc)
+
+- Aug 2026
+- ICERM, Brown University, Providence, RI
+- Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant (travel and lodging funded).
 
 # Miscellaneous
 

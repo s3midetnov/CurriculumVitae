@@ -492,6 +492,13 @@
 
 
 
+== Research Interests
+
+#one-col-entry(
+  content: [- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; geometric and combinatorial group theory \(stable commutator length, one-relator groups\); operads and simplicial methods.],
+)
+
+
 == Work Experience
 
 #two-col-entry(
@@ -725,6 +732,24 @@ Aug 2025
     Copenhagen, Denmark
 
 July 2026
+  ],
+)
+
+
+
+== Schools and Workshops
+
+#two-col-entry(
+  left-content: [
+    #link("https://icerm.brown.edu/program/topical_workshop/tw-26-thc")[#strong[Teaching Higher Category Theory with Computers]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant \(travel and lodging funded\).],)
+  ],
+  right-content: [
+    ICERM, Brown University, Providence, RI
+
+Aug 2026
   ],
 )
 

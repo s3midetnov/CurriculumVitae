@@ -36,15 +36,25 @@
 - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
 - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
 
+## IPONWEB (acquired by Criteo), Machine Learning Intern
+
+- May 2023 – Sept 2023
+- Pafos, Cyprus
+- Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
+
 # Publications
 
-## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
-- May 2021
-- ***Artem Semidetnov***, Ruslan Magdiev
+## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
+- Aug 2026
+- ***Artem Semidetnov***
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
 - Dec 2025
 - ***Artem Semidetnov***
+
+## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
+- May 2021
+- ***Artem Semidetnov***, Ruslan Magdiev
 
 # Awards and Scholarships
 

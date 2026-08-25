@@ -523,23 +523,38 @@ June 2024 – Sept 2024
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.],)
+  ],
+  right-content: [
+    Pafos, Cyprus
+
+May 2023 – Sept 2023
+  ],
+)
+
 
 
 == Publications
 
 #two-col-entry(
   left-content: [
-    #link("https://arxiv.org/pdf/2106.00095")[#strong[On the geometry of free nilpotent groups]]
+    #link("https://arxiv.org/abs/2608.21465")[#strong[The stable commutator length of a relator is not a one-relator group invariant]]
 
   ],
   right-content: [
-    May 2021
+    Aug 2026
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]], Ruslan Magdiev
+#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]]
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2106.00095")[https://doi.org/10.48550/arXiv.2106.00095]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.21465")[https://doi.org/10.48550/arXiv.2608.21465]])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -555,6 +570,21 @@ June 2024 – Sept 2024
 #v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]]
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2512.14498")[https://doi.org/10.48550/arXiv.2512.14498]])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/pdf/2106.00095")[#strong[On the geometry of free nilpotent groups]]
+
+  ],
+  right-content: [
+    May 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]], Ruslan Magdiev
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2106.00095")[https://doi.org/10.48550/arXiv.2106.00095]])
 
 
 

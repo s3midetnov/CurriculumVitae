@@ -49,7 +49,7 @@ cv:
         end_date: 2027
 
     research interests:
-      - bullet: Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; operads and simplicial methods; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+      - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 
     publications:
       - title: '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465)'

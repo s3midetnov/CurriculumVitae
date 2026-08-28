@@ -20,7 +20,7 @@
 
 # Research Interests
 
-- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; operads and simplicial methods; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 # Publications
 
 ## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))

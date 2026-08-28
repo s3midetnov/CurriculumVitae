@@ -495,7 +495,7 @@
 == Research Interests
 
 #one-col-entry(
-  content: [- Homotopy type theory and directed/higher category theory, especially computer-formalized approaches; operads and simplicial methods; geometric and combinatorial group theory \(stable commutator length, one-relator groups\).],
+  content: [- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory \(stable commutator length, one-relator groups\).],
 )
 
 

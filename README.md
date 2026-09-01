@@ -23,10 +23,6 @@
 - Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 # Publications
 
-## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
-- Aug 2026
-- ***Artem Semidetnov***
-
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))
 - Dec 2025
 - ***Artem Semidetnov***
@@ -34,6 +30,16 @@
 ## [On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095) ([https://doi.org/10.48550/arXiv.2106.00095](https://doi.org/https://doi.org/10.48550/arXiv.2106.00095))
 - May 2021
 - ***Artem Semidetnov***, Ruslan Magdiev
+
+# AI-Assisted Mathematical Research
+
+## [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) ([https://doi.org/10.48550/arXiv.2608.29219](https://doi.org/https://doi.org/10.48550/arXiv.2608.29219))
+- Aug 2026
+- Vasily Ionin, ***Artem Semidetnov***
+
+## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
+- Aug 2026
+- ***Artem Semidetnov***
 
 # Work Experience
 

@@ -503,21 +503,6 @@
 
 #two-col-entry(
   left-content: [
-    #link("https://arxiv.org/abs/2608.21465")[#strong[The stable commutator length of a relator is not a one-relator group invariant]]
-
-  ],
-  right-content: [
-    Aug 2026
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]]
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.21465")[https://doi.org/10.48550/arXiv.2608.21465]])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
     #link("https://arxiv.org/pdf/2512.14498")[#strong[The operad associated to a crossed simplicial group]]
 
   ],
@@ -544,6 +529,39 @@
 #v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]], Ruslan Magdiev
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2106.00095")[https://doi.org/10.48550/arXiv.2106.00095]])
+
+
+
+== AI-Assisted Mathematical Research
+
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/abs/2608.29219")[#strong[On Some More Problems from the Kourovka Notebook]]
+
+  ],
+  right-content: [
+    Aug 2026
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Vasily Ionin, #strong[#emph[Artem Semidetnov]]
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.29219")[https://doi.org/10.48550/arXiv.2608.29219]])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/abs/2608.21465")[#strong[The stable commutator length of a relator is not a one-relator group invariant]]
+
+  ],
+  right-content: [
+    Aug 2026
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]]
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.21465")[https://doi.org/10.48550/arXiv.2608.21465]])
 
 
 

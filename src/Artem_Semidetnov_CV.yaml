@@ -52,11 +52,6 @@ cv:
       - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 
     publications:
-      - title: '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465)'
-        authors:
-           - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2608.21465
-        date: 2026-08-21
       - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'
         authors:
            - '***Artem Semidetnov***'
@@ -68,6 +63,19 @@ cv:
           - Ruslan Magdiev
         doi: https://doi.org/10.48550/arXiv.2106.00095
         date: 2021-05-31
+
+    AI-Assisted Mathematical Research:
+      - title: '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219)'
+        authors:
+          - Vasily Ionin
+          - '***Artem Semidetnov***'
+        doi: https://doi.org/10.48550/arXiv.2608.29219
+        date: 2026-08-29
+      - title: '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465)'
+        authors:
+          - '***Artem Semidetnov***'
+        doi: https://doi.org/10.48550/arXiv.2608.21465
+        date: 2026-08-21
 
     work experience:
       - company: JetBrains

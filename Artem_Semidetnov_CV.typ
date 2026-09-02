@@ -499,11 +499,15 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #strong[AI and machine learning:] LLM coding agents, model fine-tuning, code completion, MCP servers, and word2vec analysis.],
+  content: [- #strong[Programming languages:] Kotlin, Python, SQL, Java, Lean, Arend, Haskell.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #strong[Languages:] English C1 \(IELTS 8.0/9\).],
+  content: [- #strong[AI and machine learning:] Coding-agent frameworks \(LangGraph, Koog\), model fine-tuning, code completion, and MCP protocol.],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[Spoken languages:] English C1 \(IELTS 8.0/9\).],
 )
 
 

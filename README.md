@@ -67,11 +67,3 @@
 - May 2021
 - ***Artem Semidetnov***, Ruslan Magdiev
 
-# Selected Awards
-
-[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
-
-JetBrains Scholarship in Neapolis University
-
-Scholarship by "Rodnye Goroda" (social investment program of PJSC "Gazprom Neft"), 2023-2024
-

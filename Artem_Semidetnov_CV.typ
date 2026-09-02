@@ -47,8 +47,8 @@
 #let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.1cm
 #let design-entries-left-and-right-margin = 0.2cm
-#let design-page-top-margin = 2cm
-#let design-page-bottom-margin = 2cm
+#let design-page-top-margin = 1.5cm
+#let design-page-bottom-margin = 1.5cm
 #let design-page-left-margin = 2cm
 #let design-page-right-margin = 2cm
 #let design-page-show-last-updated-date = true
@@ -619,20 +619,5 @@ May 2023 – Sept 2023
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2106.00095")[https://doi.org/10.48550/arXiv.2106.00095]])
 
-
-
-== Selected Awards
-
-#one-col-entry(
-  content: [#link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[Excellence Master Fellowship at Geneva University]]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [JetBrains Scholarship in Neapolis University]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [Scholarship by \"Rodnye Goroda\" \(social investment program of PJSC \"Gazprom Neft\"\), 2023-2024]
-)
 
 

@@ -507,7 +507,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #strong[Spoken languages:] English C1 \(IELTS 8.0/9\).],
+  content: [- #strong[Spoken languages:] Russian \(native\), English C1 \(IELTS 8.0/9\), French \(conversational\).],
 )
 
 

@@ -23,7 +23,7 @@
 - **Formal verification:** Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.
 - **Programming languages:** Kotlin, Python, SQL, Java, Lean, Arend, Haskell.
 - **AI and machine learning:** Coding-agent frameworks (LangGraph, Koog), model fine-tuning, code completion, and MCP protocol.
-- **Spoken languages:** English C1 (IELTS 8.0/9).
+- **Spoken languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).
 # Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab

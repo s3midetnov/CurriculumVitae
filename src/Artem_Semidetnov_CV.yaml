@@ -50,8 +50,9 @@ cv:
 
     technical skills:
       - bullet: '**Formal verification:** Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.'
-      - bullet: '**AI and machine learning:** LLM coding agents, model fine-tuning, code completion, MCP servers, and word2vec analysis.'
-      - bullet: '**Languages:** English C1 (IELTS 8.0/9).'
+      - bullet: '**Programming languages:** Kotlin, Python, SQL, Java, Lean, Arend, Haskell.'
+      - bullet: '**AI and machine learning:** Coding-agent frameworks (LangGraph, Koog), model fine-tuning, code completion, and MCP protocol.'
+      - bullet: '**Spoken languages:** English C1 (IELTS 8.0/9).'
 
     work experience:
       - company: JetBrains

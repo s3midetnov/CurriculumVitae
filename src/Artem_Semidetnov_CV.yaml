@@ -28,6 +28,11 @@ cv:
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
     education:
+      - institution: Geneva University
+        area: Mathematics
+        degree: MSc
+        start_date: 2025
+        end_date: 2027
       - institution: Saint-Petersburg State University
         area: Mathematics
         degree: BSc
@@ -42,27 +47,38 @@ cv:
         degree: BSc
         start_date: 2022
         end_date: 2024
-      - institution: Geneva University
-        area: Mathematics
-        degree: MSc
-        start_date: 2025
-        end_date: 2027
 
-    research interests:
-      - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+    technical skills:
+      - bullet: '**Formal verification:** Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.'
+      - bullet: '**AI and machine learning:** LLM coding agents, model fine-tuning, code completion, MCP servers, and word2vec analysis.'
+      - bullet: '**Languages:** English C1 (IELTS 8.0/9).'
 
-    publications:
-      - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'
-        authors:
-           - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2512.14498
-        date: 2025-12-16
-      - title: '[On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095)'
-        authors:
-          - '***Artem Semidetnov***'
-          - Ruslan Magdiev
-        doi: https://doi.org/10.48550/arXiv.2106.00095
-        date: 2021-05-31
+    work experience:
+      - company: JetBrains
+        position: Research Intern in HoTT and Dependent Types Lab
+        location: Remote
+        start_date: 2025-11
+        end_date: 2026-04
+        highlights:
+          - Built AI-assisted development features for Arend, including MCP servers exposing typechecking and IDE functionality; contributed to the Arend plugin for IntelliJ IDEA.
+          - Built an experimental LLM coding agent for generating Arend code using the Koog framework.
+          - Fine-tuned models for Arend code completion.
+      - company: JetBrains
+        position: Research Intern in HoTT and Dependent Types Lab
+        location: Pafos, Cyprus
+        start_date: 2024-06
+        end_date: 2024-09
+        highlights:
+          - Contributed formalized results in algebra and homotopy type theory to the official Arend library.
+          - Formalized the Eckmann-Hilton argument, Eilenberg-MacLane spaces, and homology of types.
+          - Formalized group automorphisms, Schur's Lemma, Maschke's Lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
+      - company: IPONWEB (acquired by Criteo)
+        position: Machine Learning Intern
+        location: Pafos, Cyprus
+        start_date: 2023-05
+        end_date: 2023-09
+        highlights:
+          - Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
     AI-Assisted Mathematical Research:
       - title: '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219)'
@@ -77,96 +93,23 @@ cv:
         doi: https://doi.org/10.48550/arXiv.2608.21465
         date: 2026-08-21
 
-    work experience:
-      - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
-        location: Remote
-        start_date: 2025-11
-        end_date: 2026-04
-        highlights:
-          - Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
-          - Developed an experimental LLM coding agent for writing Arend code using framework Koog.
-          - Fine-tuned models for Arend code completion.
-      - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
-        location: Pafos, Cyprus
-        start_date: 2024-06
-        end_date: 2024-09
-        highlights:
-          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
-          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
-          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
-      - company: IPONWEB (acquired by Criteo)
-        position: Machine Learning Intern
-        location: Pafos, Cyprus
-        start_date: 2023-05
-        end_date: 2023-09
-        highlights:
-          - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
-    awards and scholarships:
-      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
-      - JetBrains Scholarship in Neapolis University
-      - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
+    publications:
+      - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'
+        authors:
+          - '***Artem Semidetnov***'
+        doi: https://doi.org/10.48550/arXiv.2512.14498
+        date: 2025-12-16
+      - title: '[On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095)'
+        authors:
+          - '***Artem Semidetnov***'
+          - Ruslan Magdiev
+        doi: https://doi.org/10.48550/arXiv.2106.00095
+        date: 2021-05-31
+
+    selected awards:
       - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
-    teaching experience:
-      - company: Sirius educational center
-        position: Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
-        location: Sochi, Russia
-        start_date: 2024-04
-        end_date: 2024-05
-      - company: Laboratory for continuous mathematical education
-        position: mathematics teacher for gifted students
-        location: Saint-Petersburg, Russia
-        start_date: 2021
-        end_date: 2023
-      - company: Mathematics and Computer Science faculty program for prospective students
-        location: Saint-Petersburg, Russia
-        position: 'Teaching assistant on the course Braid and knot theory"\;'
-        date: 2023-06
-    selected talks: 
-      - name: "On the geometry of free nilpotent groups"
-        location: Novosibirsk, Russia
-        highlights: 
-          - Siberian summer conference
-        date: 2021
-      - name: '["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
-        highlights: 
-          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
-        location: Saint-Petersburg, Russia
-      - name: '["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)'
-        highlights: 
-          - Topological Methods in Dynamics and Related Topics VII
-        date: 2024
-        location: N.Novgorod, Russia
-      - name: '["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)'
-        highlights: 
-          - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
-        date: 2025-08
-        location: Pushkin, Russia
-      - name: '["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
-        date: 2026-07
-        highlights: 
-          - Young Topologists Meeting 2026
-        location: Copenhagen, Denmark
-
-    schools and workshops:
-      - name: '[Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc)'
-        highlights:
-          - 'Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant (travel and lodging funded).'
-        date: 2026-08
-        location: ICERM, Brown University, Providence, RI
-
-    miscellaneous:
-      - bullet: Finalist of 2020 Intel ISEF
-      - bullet: Intel ISEF alumni
-      - bullet: Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
-      - bullet: 3rd team place in 2019 [International Tournament of Young Mathematicians](https://www.itym.org) in Barcelona, Spain
-      - bullet: Organizer of the [Euler International Mathematical Institute's functional analysis seminar](https://indico.eimi.ru/category/102/)
-      - bullet: English level C1 (IELTS 8.0/9, taken in 2020, 2024)
-      - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
-      - bullet: Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
-      - bullet: Invited judge in International Tournament of Young Mathematicians 2024, 2025
-      - bullet: '[A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)'
+      - JetBrains Scholarship in Neapolis University
+      - Scholarship by "Rodnye Goroda" (social investment program of PJSC "Gazprom Neft"), 2023-2024
 
     # projects:
     #   - name: Multi-User Drawing Tool
@@ -322,5 +265,5 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-01-26'
+  date: '2026-09-02'
   bold_keywords: []

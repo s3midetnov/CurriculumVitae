@@ -1,28 +1,21 @@
 # Artem Semidetnov's CV
 
 - Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
-- Location: Geneve, Switzerland
+- Location: Geneva, Switzerland
+- GitHub: [s3midetnov](https://github.com/s3midetnov)
+- LinkedIn: [artem-semidetnov-878381247](https://linkedin.com/in/artem-semidetnov-878381247)
 
 
-# Education
+# Summary
 
-## Geneva University, MSc in Mathematics
-
-- 2025 – 2027
-
-## Saint-Petersburg State University, BSc in Mathematics
-
-- 2021 – 2025
-
-## Neapolis University Of Pafos, BSc in Applied Computer Science JetBrains Program
-
-- 2022 – 2024
+Software/research engineer building AI tooling for dependently typed programming languages, including MCP integration, coding agents, IDE tooling, and model fine-tuning. Background in mathematics, type systems, and formal verification.
 
 # Technical Skills
 
-- **Formal verification:** Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.
-- **Programming languages:** Kotlin, Python, SQL, Java, Lean, Arend, Haskell.
-- **AI and machine learning:** Coding-agent frameworks (LangGraph, Koog), model fine-tuning, code completion, and MCP protocol.
+- **Programming languages & compilers:** Arend, dependent type systems, typechecking, language tooling, IDE integration, Lean, Haskell.
+- **AI engineering:** MCP, coding agents, LangGraph, Koog, model fine-tuning, code completion, LLM evaluation.
+- **Software engineering:** Kotlin, Java, Python, SQL, JVM ecosystem.
+- **Formal methods:** theorem proving, proof assistants, formalization.
 - **Spoken languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).
 # Work Experience
 
@@ -30,7 +23,8 @@
 
 - Nov 2025 – Apr 2026
 - Remote
-- Built AI-assisted development features for Arend, including MCP servers exposing typechecking and IDE functionality; contributed to the Arend plugin for IntelliJ IDEA.
+- Designed and developed the MCP server for the Arend proof assistant, exposing typechecking and relevant IDE functionality to AI coding agents.
+- Integrated the MCP server with the Arend plugin for IntelliJ IDEA.
 - Built an experimental LLM coding agent for generating Arend code using the Koog framework.
 - Fine-tuned models for Arend code completion.
 
@@ -48,16 +42,23 @@
 - Pafos, Cyprus
 - Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
+# Education
+
+## Geneva University, MSc in Mathematics
+
+- 2025 – 2027
+
+## Saint-Petersburg State University, BSc in Mathematics
+
+- 2021 – 2025
+
+## Neapolis University Of Pafos, BSc in Applied Computer Science JetBrains Program
+
+- 2022 – 2024
+
 # AI-Assisted Mathematical Research
 
-## [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) ([https://doi.org/10.48550/arXiv.2608.29219](https://doi.org/https://doi.org/10.48550/arXiv.2608.29219))
-- Aug 2026
-- Vasily Ionin, ***Artem Semidetnov***
-
-## [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) ([https://doi.org/10.48550/arXiv.2608.21465](https://doi.org/https://doi.org/10.48550/arXiv.2608.21465))
-- Aug 2026
-- ***Artem Semidetnov***
-
+- Used AI tools in original mathematical research, resulting in two 2026 preprints: [Kourovka Notebook solutions](https://arxiv.org/abs/2608.29219) and [stable commutator length](https://arxiv.org/abs/2608.21465).
 # Publications
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498) ([https://doi.org/10.48550/arXiv.2512.14498](https://doi.org/https://doi.org/10.48550/arXiv.2512.14498))

@@ -443,10 +443,90 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Geneve, Switzerland],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Geneva, Switzerland],
   [#box(original-link("mailto:artemsemidetnov@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)artemsemidetnov\@gmail.com])],
+  [#box(original-link("https://github.com/s3midetnov")[#fa-icon("github", size: 0.9em) #h(0.05cm)s3midetnov])],
+  [#box(original-link("https://linkedin.com/in/artem-semidetnov-878381247")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)artem-semidetnov-878381247])],
 )
 #connections(connections-list)
+
+
+
+== Summary
+
+#one-col-entry(
+  content: [Software/research engineer building AI tooling for dependently typed programming languages, including MCP integration, coding agents, IDE tooling, and model fine-tuning. Background in mathematics, type systems, and formal verification.]
+)
+
+
+== Technical Skills
+
+#one-col-entry(
+  content: [- #strong[Programming languages & compilers:] Arend, dependent type systems, typechecking, language tooling, IDE integration, Lean, Haskell.],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[AI engineering:] MCP, coding agents, LangGraph, Koog, model fine-tuning, code completion, LLM evaluation.],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[Software engineering:] Kotlin, Java, Python, SQL, JVM ecosystem.],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[Formal methods:] theorem proving, proof assistants, formalization.],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[Spoken languages:] Russian \(native\), English C1 \(IELTS 8.0/9\), French \(conversational\).],
+)
+
+
+== Work Experience
+
+#two-col-entry(
+  left-content: [
+    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Designed and developed the MCP server for the Arend proof assistant, exposing typechecking and relevant IDE functionality to AI coding agents.],[Integrated the MCP server with the Arend plugin for IntelliJ IDEA.],[Built an experimental LLM coding agent for generating Arend code using the Koog framework.],[Fine-tuned models for Arend code completion.],)
+  ],
+  right-content: [
+    Remote
+
+Nov 2025 – Apr 2026
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Contributed formalized results in algebra and homotopy type theory to the official Arend library.],[Formalized the Eckmann-Hilton argument, Eilenberg-MacLane spaces, and homology of types.],[Formalized group automorphisms, Schur's Lemma, Maschke's Lemma, and characterizations of group actions; selected contributions shipped in #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[Arend 1.10].],)
+  ],
+  right-content: [
+    Pafos, Cyprus
+
+June 2024 – Sept 2024
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.],)
+  ],
+  right-content: [
+    Pafos, Cyprus
+
+May 2023 – Sept 2023
+  ],
+)
 
 
 
@@ -492,104 +572,11 @@
 
 
 
-== Technical Skills
-
-#one-col-entry(
-  content: [- #strong[Formal verification:] Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #strong[Programming languages:] Kotlin, Python, SQL, Java, Lean, Arend, Haskell.],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #strong[AI and machine learning:] Coding-agent frameworks \(LangGraph, Koog\), model fine-tuning, code completion, and MCP protocol.],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #strong[Spoken languages:] Russian \(native\), English C1 \(IELTS 8.0/9\), French \(conversational\).],
-)
-
-
-== Work Experience
-
-#two-col-entry(
-  left-content: [
-    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Built AI-assisted development features for Arend, including MCP servers exposing typechecking and IDE functionality; contributed to the Arend plugin for IntelliJ IDEA.],[Built an experimental LLM coding agent for generating Arend code using the Koog framework.],[Fine-tuned models for Arend code completion.],)
-  ],
-  right-content: [
-    Remote
-
-Nov 2025 – Apr 2026
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Contributed formalized results in algebra and homotopy type theory to the official Arend library.],[Formalized the Eckmann-Hilton argument, Eilenberg-MacLane spaces, and homology of types.],[Formalized group automorphisms, Schur's Lemma, Maschke's Lemma, and characterizations of group actions; selected contributions shipped in #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[Arend 1.10].],)
-  ],
-  right-content: [
-    Pafos, Cyprus
-
-June 2024 – Sept 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.],)
-  ],
-  right-content: [
-    Pafos, Cyprus
-
-May 2023 – Sept 2023
-  ],
-)
-
-
-
 == AI-Assisted Mathematical Research
 
-#two-col-entry(
-  left-content: [
-    #link("https://arxiv.org/abs/2608.29219")[#strong[On Some More Problems from the Kourovka Notebook]]
-
-  ],
-  right-content: [
-    Aug 2026
-  ],
+#one-col-entry(
+  content: [- Used AI tools in original mathematical research, resulting in two 2026 preprints: #link("https://arxiv.org/abs/2608.29219")[Kourovka Notebook solutions] and #link("https://arxiv.org/abs/2608.21465")[stable commutator length].],
 )
-#one-col-entry(content:[
-#v(design-highlights-top-margin);Vasily Ionin, #strong[#emph[Artem Semidetnov]]
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.29219")[https://doi.org/10.48550/arXiv.2608.29219]])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://arxiv.org/abs/2608.21465")[#strong[The stable commutator length of a relator is not a one-relator group invariant]]
-
-  ],
-  right-content: [
-    Aug 2026
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[Artem Semidetnov]]
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.48550/arXiv.2608.21465")[https://doi.org/10.48550/arXiv.2608.21465]])
-
 
 
 == Publications

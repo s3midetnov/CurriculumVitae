@@ -1,14 +1,16 @@
 cv:
   name: Artem Semidetnov
-  location: Geneve, Switzerland
+  location: Geneva, Switzerland
   email: artemsemidetnov@gmail.com
   # phone: tel:+7 (921) 363-8909
   # website: https://yourwebsite.com/
-  # social_networks:
+  social_networks:
+    - network: GitHub
+      username: s3midetnov
+    - network: LinkedIn
+      username: artem-semidetnov-878381247
   #   - network: Telegram
   #     username: tema6501
-    # - network: LinkedIn
-    #   username: yourusername
   sections:
     # welcome_to_RenderCV!:
     #   - '[RenderCV](https://github.com/sinaatalay/rendercv) is
@@ -27,31 +29,14 @@ cv:
     #       start writing your section!
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
-    education:
-      - institution: Geneva University
-        area: Mathematics
-        degree: MSc
-        start_date: 2025
-        end_date: 2027
-      - institution: Saint-Petersburg State University
-        area: Mathematics
-        degree: BSc
-        start_date: 2021
-        end_date: 2025
-        # highlights:
-        #   - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-        #   - '**Coursework:** Computer Architecture, Comparison
-        #     of Learning Algorithms, Computational Theory'
-      - institution: Neapolis University Of Pafos
-        area: Applied Computer Science JetBrains Program
-        degree: BSc
-        start_date: 2022
-        end_date: 2024
+    summary:
+      - Software/research engineer building AI tooling for dependently typed programming languages, including MCP integration, coding agents, IDE tooling, and model fine-tuning. Background in mathematics, type systems, and formal verification.
 
     technical skills:
-      - bullet: '**Formal verification:** Arend, dependent type theory, theorem formalization, typechecking, and IDE integration.'
-      - bullet: '**Programming languages:** Kotlin, Python, SQL, Java, Lean, Arend, Haskell.'
-      - bullet: '**AI and machine learning:** Coding-agent frameworks (LangGraph, Koog), model fine-tuning, code completion, and MCP protocol.'
+      - bullet: '**Programming languages & compilers:** Arend, dependent type systems, typechecking, language tooling, IDE integration, Lean, Haskell.'
+      - bullet: '**AI engineering:** MCP, coding agents, LangGraph, Koog, model fine-tuning, code completion, LLM evaluation.'
+      - bullet: '**Software engineering:** Kotlin, Java, Python, SQL, JVM ecosystem.'
+      - bullet: '**Formal methods:** theorem proving, proof assistants, formalization.'
       - bullet: '**Spoken languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).'
 
     work experience:
@@ -61,7 +46,8 @@ cv:
         start_date: 2025-11
         end_date: 2026-04
         highlights:
-          - Built AI-assisted development features for Arend, including MCP servers exposing typechecking and IDE functionality; contributed to the Arend plugin for IntelliJ IDEA.
+          - Designed and developed the MCP server for the Arend proof assistant, exposing typechecking and relevant IDE functionality to AI coding agents.
+          - Integrated the MCP server with the Arend plugin for IntelliJ IDEA.
           - Built an experimental LLM coding agent for generating Arend code using the Koog framework.
           - Fine-tuned models for Arend code completion.
       - company: JetBrains
@@ -81,18 +67,25 @@ cv:
         highlights:
           - Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
+    education:
+      - institution: Geneva University
+        area: Mathematics
+        degree: MSc
+        start_date: 2025
+        end_date: 2027
+      - institution: Saint-Petersburg State University
+        area: Mathematics
+        degree: BSc
+        start_date: 2021
+        end_date: 2025
+      - institution: Neapolis University Of Pafos
+        area: Applied Computer Science JetBrains Program
+        degree: BSc
+        start_date: 2022
+        end_date: 2024
+
     AI-Assisted Mathematical Research:
-      - title: '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219)'
-        authors:
-          - Vasily Ionin
-          - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2608.29219
-        date: 2026-08-29
-      - title: '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465)'
-        authors:
-          - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2608.21465
-        date: 2026-08-21
+      - bullet: 'Used AI tools in original mathematical research, resulting in two 2026 preprints: [Kourovka Notebook solutions](https://arxiv.org/abs/2608.29219) and [stable commutator length](https://arxiv.org/abs/2608.21465).'
 
     publications:
       - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'

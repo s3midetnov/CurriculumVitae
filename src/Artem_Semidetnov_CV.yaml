@@ -106,11 +106,6 @@ cv:
         doi: https://doi.org/10.48550/arXiv.2106.00095
         date: 2021-05-31
 
-    selected awards:
-      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
-      - JetBrains Scholarship in Neapolis University
-      - Scholarship by "Rodnye Goroda" (social investment program of PJSC "Gazprom Neft"), 2023-2024
-
     # projects:
     #   - name: Multi-User Drawing Tool
     #     date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
@@ -146,8 +141,8 @@ design:
   theme: classic
   page:
     size: us-letter
-    top_margin: 2cm
-    bottom_margin: 2cm
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true

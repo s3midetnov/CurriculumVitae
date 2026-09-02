@@ -173,8 +173,8 @@ design:
     bold: true
     small_caps: false
     line_thickness: 0.5pt
-    vertical_space_above: 0.5cm
-    vertical_space_below: 0.3cm
+    vertical_space_above: 0.35cm
+    vertical_space_below: 0.2cm
   entries:
     date_and_location_width: 4.15cm
     left_and_right_margin: 0.2cm

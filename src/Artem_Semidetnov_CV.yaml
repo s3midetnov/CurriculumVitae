@@ -1,16 +1,14 @@
 cv:
   name: Artem Semidetnov
-  location: Geneva, Switzerland
+  location: Geneve, Switzerland
   email: artemsemidetnov@gmail.com
   # phone: tel:+7 (921) 363-8909
   # website: https://yourwebsite.com/
-  social_networks:
-    - network: GitHub
-      username: s3midetnov
-    - network: LinkedIn
-      username: artem-semidetnov-878381247
+  # social_networks:
   #   - network: Telegram
   #     username: tema6501
+    # - network: LinkedIn
+    #   username: yourusername
   sections:
     # welcome_to_RenderCV!:
     #   - '[RenderCV](https://github.com/sinaatalay/rendercv) is
@@ -29,15 +27,42 @@ cv:
     #       start writing your section!
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
-    summary:
-      - Software/research engineer building AI tooling for dependently typed programming languages, including MCP integration, coding agents, IDE tooling, and model fine-tuning. Background in mathematics, type systems, and formal verification.
+    education:
+      - institution: Saint-Petersburg State University
+        area: Mathematics
+        degree: BSc
+        start_date: 2021
+        end_date: 2025
+        # highlights:
+        #   - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
+        #   - '**Coursework:** Computer Architecture, Comparison
+        #     of Learning Algorithms, Computational Theory'
+      - institution: Neapolis University Of Pafos
+        area: Applied Computer Science JetBrains Program
+        degree: BSc
+        start_date: 2022
+        end_date: 2024
+      - institution: Geneva University
+        area: Mathematics
+        degree: MSc
+        start_date: 2025
+        end_date: 2027
 
-    technical skills:
-      - bullet: '**Programming languages & compilers:** Arend, dependent type systems, typechecking, language tooling, IDE integration, Lean, Haskell.'
-      - bullet: '**AI engineering:** MCP, coding agents, LangGraph, Koog, model fine-tuning, code completion, LLM evaluation.'
-      - bullet: '**Software engineering:** Kotlin, Java, Python, SQL, JVM ecosystem.'
-      - bullet: '**Formal methods:** theorem proving, proof assistants, formalization.'
-      - bullet: '**Spoken languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).'
+    research interests:
+      - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+
+    publications:
+      - name: '[The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)'
+        summary: '***Artem Semidetnov*** · [doi:10.48550/arXiv.2512.14498](https://doi.org/10.48550/arXiv.2512.14498)'
+        date: 2025-12-16
+      - name: '[On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)'
+        summary: '***Artem Semidetnov***, Ruslan Magdiev · [doi:10.48550/arXiv.2106.00095](https://doi.org/10.48550/arXiv.2106.00095)'
+        date: 2021-05-31
+      - name: AI-Assisted Mathematical Research
+        highlights:
+          - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).'
+          - '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).'
+          - '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).'
 
     work experience:
       - company: JetBrains
@@ -46,9 +71,8 @@ cv:
         start_date: 2025-11
         end_date: 2026-04
         highlights:
-          - Designed and developed the MCP server for the Arend proof assistant, exposing typechecking and relevant IDE functionality to AI coding agents.
-          - Integrated the MCP server with the Arend plugin for IntelliJ IDEA.
-          - Built an experimental LLM coding agent for generating Arend code using the Koog framework.
+          - Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
+          - Developed an experimental LLM coding agent for writing Arend code using framework Koog.
           - Fine-tuned models for Arend code completion.
       - company: JetBrains
         position: Research Intern in HoTT and Dependent Types Lab
@@ -56,49 +80,80 @@ cv:
         start_date: 2024-06
         end_date: 2024-09
         highlights:
-          - Contributed formalized results in algebra and homotopy type theory to the official Arend library.
-          - Formalized the Eckmann-Hilton argument, Eilenberg-MacLane spaces, and homology of types.
-          - Formalized group automorphisms, Schur's Lemma, Maschke's Lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
+          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
       - company: IPONWEB (acquired by Criteo)
         position: Machine Learning Intern
         location: Pafos, Cyprus
         start_date: 2023-05
         end_date: 2023-09
         highlights:
-          - Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
-
-    education:
-      - institution: Geneva University
-        area: Mathematics
-        degree: MSc
-        start_date: 2025
-        end_date: 2027
-      - institution: Saint-Petersburg State University
-        area: Mathematics
-        degree: BSc
+          - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
+    awards and scholarships:
+      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+      - JetBrains Scholarship in Neapolis University
+      - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
+      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
+    teaching experience:
+      - company: Sirius educational center
+        position: Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
+        location: Sochi, Russia
+        start_date: 2024-04
+        end_date: 2024-05
+      - company: Laboratory for continuous mathematical education
+        position: mathematics teacher for gifted students
+        location: Saint-Petersburg, Russia
         start_date: 2021
-        end_date: 2025
-      - institution: Neapolis University Of Pafos
-        area: Applied Computer Science JetBrains Program
-        degree: BSc
-        start_date: 2022
-        end_date: 2024
+        end_date: 2023
+      - company: Mathematics and Computer Science faculty program for prospective students
+        location: Saint-Petersburg, Russia
+        position: 'Teaching assistant on the course Braid and knot theory"\;'
+        date: 2023-06
+    selected talks: 
+      - name: "On the geometry of free nilpotent groups"
+        location: Novosibirsk, Russia
+        highlights: 
+          - Siberian summer conference
+        date: 2021
+      - name: '["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
+        highlights: 
+          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
+        location: Saint-Petersburg, Russia
+      - name: '["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)'
+        highlights: 
+          - Topological Methods in Dynamics and Related Topics VII
+        date: 2024
+        location: N.Novgorod, Russia
+      - name: '["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)'
+        highlights: 
+          - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
+        date: 2025-08
+        location: Pushkin, Russia
+      - name: '["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
+        date: 2026-07
+        highlights: 
+          - Young Topologists Meeting 2026
+        location: Copenhagen, Denmark
 
-    AI-Assisted Mathematical Research:
-      - bullet: 'Used AI tools in original mathematical research, resulting in two 2026 preprints: [Kourovka Notebook solutions](https://arxiv.org/abs/2608.29219) and [stable commutator length](https://arxiv.org/abs/2608.21465).'
+    schools and workshops:
+      - name: '[Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc)'
+        highlights:
+          - 'Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant (travel and lodging funded).'
+        date: 2026-08
+        location: ICERM, Brown University, Providence, RI
 
-    publications:
-      - title: '[The operad associated to a crossed simplicial group](https://arxiv.org/pdf/2512.14498)'
-        authors:
-          - '***Artem Semidetnov***'
-        doi: https://doi.org/10.48550/arXiv.2512.14498
-        date: 2025-12-16
-      - title: '[On the geometry of free nilpotent groups](https://arxiv.org/pdf/2106.00095)'
-        authors:
-          - '***Artem Semidetnov***'
-          - Ruslan Magdiev
-        doi: https://doi.org/10.48550/arXiv.2106.00095
-        date: 2021-05-31
+    miscellaneous:
+      - bullet: Finalist of 2020 Intel ISEF
+      - bullet: Intel ISEF alumni
+      - bullet: Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
+      - bullet: 3rd team place in 2019 [International Tournament of Young Mathematicians](https://www.itym.org) in Barcelona, Spain
+      - bullet: Organizer of the [Euler International Mathematical Institute's functional analysis seminar](https://indico.eimi.ru/category/102/)
+      - bullet: English level C1 (IELTS 8.0/9, taken in 2020, 2024)
+      - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+      - bullet: Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
+      - bullet: Invited judge in International Tournament of Young Mathematicians 2024, 2025
+      - bullet: '[A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)'
 
     # projects:
     #   - name: Multi-User Drawing Tool
@@ -135,8 +190,8 @@ design:
   theme: classic
   page:
     size: us-letter
-    top_margin: 1.3cm
-    bottom_margin: 1.3cm
+    top_margin: 2cm
+    bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
@@ -173,13 +228,13 @@ design:
     bold: true
     small_caps: false
     line_thickness: 0.5pt
-    vertical_space_above: 0.35cm
-    vertical_space_below: 0.2cm
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
   entries:
     date_and_location_width: 4.15cm
     left_and_right_margin: 0.2cm
     horizontal_space_between_columns: 0.1cm
-    vertical_space_between_entries: 1em
+    vertical_space_between_entries: 1.2em
     allow_page_break_in_entries: true
     short_second_row: false
     show_time_spans_in: []
@@ -254,5 +309,5 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2026-09-02'
+  date: '2026-09-10'
   bold_keywords: []

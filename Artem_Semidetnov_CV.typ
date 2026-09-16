@@ -455,7 +455,7 @@
 == Profile
 
 #one-col-entry(
-  content: [Mathematician and research engineer working across category theory, dependent type theory, proof assistants, and AI-assisted mathematical research. I build formalizations and programming-language tooling, from typecheckers and IDE integrations to LLM agents for formal mathematics.]
+  content: [Mathematician and research engineer building proof-assistant tooling and AI systems for formal mathematics. My experience spans typechecker development, IDE integrations, formalization, and original mathematical research.]
 )
 
 
@@ -520,23 +520,8 @@
 
 
 
-== Research and Engineering Experience
+== Work Experience
 
-#two-col-entry(
-  left-content: [
-    #link("https://github.com/rzk-lang")[#strong[Rzk proof assistant and sHoTT library]], Open-Source Contributor
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.],[Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an #link("https://github.com/rzk-lang/rzk/pull/363")[open pull request].],[Formalized that precomposition with an equivalence is an equivalence in the #link("https://github.com/rzk-lang/sHoTT/pull/196")[sHoTT library].],)
-  ],
-  right-content: [
-    Open source
-
-Aug 2026 – present
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
@@ -583,8 +568,23 @@ May 2023 – Sept 2023
 
 
 
-== Publications
+== Research and Engineering
 
+#two-col-entry(
+  left-content: [
+    #link("https://github.com/rzk-lang")[#strong[Rzk proof assistant and sHoTT library]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.],[Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an #link("https://github.com/rzk-lang/rzk/pull/363")[open pull request].],[Formalized that precomposition with an equivalence is an equivalence in the #link("https://github.com/rzk-lang/sHoTT/pull/196")[sHoTT library].],)
+  ],
+  right-content: [
+    Open source
+
+Aug 2026 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #link("https://arxiv.org/abs/2512.14498")[#strong[The operad associated to a crossed simplicial group]]
@@ -630,7 +630,7 @@ May 2023 – Sept 2023
 == Research Interests
 
 #one-col-entry(
-  content: [- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.],
+  content: [- Categorical homotopy theory; homotopy type theory and computer-verified mathematics; simplicial methods and operads; AI-assisted mathematical reasoning; geometric and combinatorial group theory.],
 )
 
 

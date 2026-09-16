@@ -8,7 +8,7 @@
 
 # Profile
 
-Mathematician and research engineer working across category theory, dependent type theory, proof assistants, and AI-assisted mathematical research. I build formalizations and programming-language tooling, from typecheckers and IDE integrations to LLM agents for formal mathematics.
+Mathematician and research engineer building proof-assistant tooling and AI systems for formal mathematics. My experience spans typechecker development, IDE integrations, formalization, and original mathematical research.
 
 # Technical Skills
 
@@ -30,15 +30,7 @@ Mathematician and research engineer working across category theory, dependent ty
 
 - 2022 – 2024
 
-# Research and Engineering Experience
-
-## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang), Open-Source Contributor
-
-- Aug 2026 – present
-- Open source
-- Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
-- Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
-- Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
+# Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
@@ -61,7 +53,15 @@ Mathematician and research engineer working across category theory, dependent ty
 - Pafos, Cyprus
 - Reverse-engineered a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
-# Publications
+# Research and Engineering
+
+## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)
+
+- Aug 2026 – present
+- Open source
+- Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
+- Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
+- Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)
 
@@ -79,7 +79,7 @@ Mathematician and research engineer working across category theory, dependent ty
 
 # Research Interests
 
-- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
+- Categorical homotopy theory; homotopy type theory and computer-verified mathematics; simplicial methods and operads; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
 # Awards and Selected Activities
 
 [Excellence Master Fellowship at the University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)

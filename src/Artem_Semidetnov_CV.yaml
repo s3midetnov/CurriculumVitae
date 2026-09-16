@@ -51,7 +51,8 @@ cv:
         end_date: 2024
 
     research and engineering experience:
-      - name: '[Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)'
+      - company: '[Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)'
+        position: Open-Source Contributor
         location: Open source
         start_date: 2026-08
         end_date: present

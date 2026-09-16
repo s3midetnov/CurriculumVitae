@@ -680,20 +680,5 @@ Aug 2026 – present
   ],
 )
 
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://disk.yandex.ru/i/52gkQhVjjRravA")[#strong[Twisting numbers on braid and Thompson groups]]
-  ],
-  right-content: [
-    2024
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Topological Methods in Dynamics and Related Topics VII, Nizhny Novgorod],)
-  ],
-)
-
 
 

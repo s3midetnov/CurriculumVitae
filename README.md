@@ -99,8 +99,3 @@ Funded participant at [Teaching Higher Category Theory with Computers](https://i
 - Aug 2025
 - Algebraic Topology, Geometry, Combinatorics, and Data Analysis, Pushkin
 
-## [Twisting numbers on braid and Thompson groups](https://disk.yandex.ru/i/52gkQhVjjRravA)
-
-- 2024
-- Topological Methods in Dynamics and Related Topics VII, Nizhny Novgorod
-

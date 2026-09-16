@@ -31,6 +31,7 @@ cv:
       - bullet: '**Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.'
       - bullet: '**Programming and language tooling:** Haskell, Kotlin, Java, Python; typechecking, compiler-style tooling, IntelliJ Platform.'
       - bullet: '**AI engineering:** MCP, LLM coding agents, model fine-tuning, code completion, evaluation.'
+      - bullet: '**Languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).'
 
     selected research and engineering projects:
       - name: '[Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)'

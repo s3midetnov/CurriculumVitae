@@ -113,11 +113,6 @@ cv:
         date: 2025-08
         highlights:
           - Algebraic Topology, Geometry, Combinatorics, and Data Analysis, Pushkin
-      - name: '[Twisting numbers on braid and Thompson groups](https://disk.yandex.ru/i/52gkQhVjjRravA)'
-        date: 2024
-        highlights:
-          - Topological Methods in Dynamics and Related Topics VII, Nizhny Novgorod
-    
 design:
   theme: classic
   page:

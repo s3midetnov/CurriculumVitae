@@ -25,7 +25,7 @@ cv:
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
     profile:
-      - Mathematician and research engineer working across category theory, dependent type theory, proof assistants, and AI-assisted mathematical research. I build formalizations and programming-language tooling, from typecheckers and IDE integrations to LLM agents for formal mathematics.
+      - Mathematician and research engineer building proof-assistant tooling and AI systems for formal mathematics. My experience spans typechecker development, IDE integrations, formalization, and original mathematical research.
 
     technical skills:
       - bullet: '**Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.'
@@ -50,17 +50,7 @@ cv:
         start_date: 2022
         end_date: 2024
 
-    research and engineering experience:
-      - company: '[Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)'
-        position: Open-Source Contributor
-        location: Open source
-        start_date: 2026-08
-        end_date: present
-        highlights:
-          - Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
-          - Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
-          - Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
-
+    work experience:
       - company: JetBrains
         position: Research Intern in HoTT and Dependent Types Lab
         location: Remote
@@ -86,7 +76,15 @@ cv:
         highlights:
           - Reverse-engineered a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
-    publications:
+    research and engineering:
+      - name: '[Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)'
+        location: Open source
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
+          - Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
+          - Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
       - name: '[The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)'
         summary: '***Artem Semidetnov*** · [doi:10.48550/arXiv.2512.14498](https://doi.org/10.48550/arXiv.2512.14498)'
         date: 2025-12-16
@@ -100,7 +98,7 @@ cv:
           - '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) - ***Artem Semidetnov*** (Aug 2026).'
 
     research interests:
-      - bullet: Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
+      - bullet: Categorical homotopy theory; homotopy type theory and computer-verified mathematics; simplicial methods and operads; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
 
     awards and selected activities:
       - '[Excellence Master Fellowship at the University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'

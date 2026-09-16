@@ -466,7 +466,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #strong[Programming and language tooling:] Haskell, Kotlin, Java, Python; typechecking, compiler-style tooling, IntelliJ Platform.],
+  content: [- #strong[Programming and language tooling:] Kotlin, Python, Java, SQL, Haskell; typechecking, compiler-style tooling, IntelliJ Platform.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -478,11 +478,53 @@
 )
 
 
-== Selected Research and Engineering Projects
+== Education
+
+// YES DATE, YES DEGREE
+#three-col-entry(
+  left-column-width: 1cm,
+  left-content: [#strong[MSc]],
+  middle-content: [
+    #strong[University of Geneva], Mathematics
+  ],
+  right-content: [
+    2025 – 2027
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, YES DEGREE
+#three-col-entry(
+  left-column-width: 1cm,
+  left-content: [#strong[BSc]],
+  middle-content: [
+    #strong[Saint Petersburg State University], Mathematics
+  ],
+  right-content: [
+    2021 – 2025
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, YES DEGREE
+#three-col-entry(
+  left-column-width: 1cm,
+  left-content: [#strong[BSc]],
+  middle-content: [
+    #strong[Neapolis University Pafos], Applied Computer Science, JetBrains Program
+  ],
+  right-content: [
+    2022 – 2024
+  ],
+)
+
+
+
+== Research and Engineering Experience
 
 #two-col-entry(
   left-content: [
-    #link("https://github.com/rzk-lang")[#strong[Rzk proof assistant and sHoTT library]]
+    #link("https://github.com/rzk-lang")[#strong[Rzk proof assistant and sHoTT library]], Open-Source Contributor
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.],[Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an #link("https://github.com/rzk-lang/rzk/pull/363")[open pull request].],[Formalized that precomposition with an equivalence is an equivalence in the #link("https://github.com/rzk-lang/sHoTT/pull/196")[sHoTT library].],)
@@ -494,10 +536,7 @@ Aug 2026 – present
   ],
 )
 
-
-
-== Work Experience
-
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
@@ -544,55 +583,6 @@ May 2023 – Sept 2023
 
 
 
-== Education
-
-// YES DATE, YES DEGREE
-#three-col-entry(
-  left-column-width: 1cm,
-  left-content: [#strong[MSc]],
-  middle-content: [
-    #strong[University of Geneva], Mathematics
-  ],
-  right-content: [
-    2025 – 2027
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, YES DEGREE
-#three-col-entry(
-  left-column-width: 1cm,
-  left-content: [#strong[BSc]],
-  middle-content: [
-    #strong[Saint Petersburg State University], Mathematics
-  ],
-  right-content: [
-    2021 – 2025
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, YES DEGREE
-#three-col-entry(
-  left-column-width: 1cm,
-  left-content: [#strong[BSc]],
-  middle-content: [
-    #strong[Neapolis University Pafos], Applied Computer Science, JetBrains Program
-  ],
-  right-content: [
-    2022 – 2024
-  ],
-)
-
-
-
-== Research Interests
-
-#one-col-entry(
-  content: [- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.],
-)
-
-
 == Publications
 
 #two-col-entry(
@@ -635,6 +625,13 @@ May 2023 – Sept 2023
   ],
 )
 
+
+
+== Research Interests
+
+#one-col-entry(
+  content: [- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.],
+)
 
 
 == Awards and Selected Activities

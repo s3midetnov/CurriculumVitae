@@ -13,20 +13,32 @@ Mathematician and research engineer working across category theory, dependent ty
 # Technical Skills
 
 - **Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.
-- **Programming and language tooling:** Haskell, Kotlin, Java, Python; typechecking, compiler-style tooling, IntelliJ Platform.
+- **Programming and language tooling:** Kotlin, Python, Java, SQL, Haskell; typechecking, compiler-style tooling, IntelliJ Platform.
 - **AI engineering:** MCP, LLM coding agents, model fine-tuning, code completion, evaluation.
 - **Languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).
-# Selected Research and Engineering Projects
+# Education
 
-## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)
+## University of Geneva, MSc in Mathematics
+
+- 2025 – 2027
+
+## Saint Petersburg State University, BSc in Mathematics
+
+- 2021 – 2025
+
+## Neapolis University Pafos, BSc in Applied Computer Science, JetBrains Program
+
+- 2022 – 2024
+
+# Research and Engineering Experience
+
+## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang), Open-Source Contributor
 
 - Aug 2026 – present
 - Open source
 - Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
 - Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
 - Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
-
-# Work Experience
 
 ## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
@@ -49,23 +61,6 @@ Mathematician and research engineer working across category theory, dependent ty
 - Pafos, Cyprus
 - Reverse-engineered a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
-# Education
-
-## University of Geneva, MSc in Mathematics
-
-- 2025 – 2027
-
-## Saint Petersburg State University, BSc in Mathematics
-
-- 2021 – 2025
-
-## Neapolis University Pafos, BSc in Applied Computer Science, JetBrains Program
-
-- 2022 – 2024
-
-# Research Interests
-
-- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
 # Publications
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)
@@ -82,6 +77,9 @@ Mathematician and research engineer working across category theory, dependent ty
 - [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) - Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).
 - [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) - ***Artem Semidetnov*** (Aug 2026).
 
+# Research Interests
+
+- Categorical semantics of computation; categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-verified mathematics; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
 # Awards and Selected Activities
 
 [Excellence Master Fellowship at the University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)

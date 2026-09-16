@@ -575,7 +575,7 @@ May 2023 – Sept 2023
     #link("https://github.com/rzk-lang")[#strong[Rzk proof assistant and sHoTT library]]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.],[Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an #link("https://github.com/rzk-lang/rzk/pull/363")[open pull request].],[Formalized that precomposition with an equivalence is an equivalence in the #link("https://github.com/rzk-lang/sHoTT/pull/196")[sHoTT library].],)
+    #v(design-highlights-top-margin);#highlights([Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an #link("https://github.com/rzk-lang/rzk/pull/363")[open pull request].],[Formalized that precomposition with an equivalence is an equivalence in the #link("https://github.com/rzk-lang/sHoTT/pull/196")[sHoTT library].],)
   ],
   right-content: [
     Open source

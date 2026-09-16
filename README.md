@@ -59,7 +59,6 @@ Mathematician and research engineer building proof-assistant tooling and AI syst
 
 - Aug 2026 – present
 - Open source
-- Contribute to an experimental proof assistant for synthetic infinity-categories across its Haskell typechecker and Rzk formalization library.
 - Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
 - Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
 

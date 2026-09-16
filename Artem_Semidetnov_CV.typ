@@ -462,11 +462,11 @@
 == Technical Skills
 
 #one-col-entry(
-  content: [- #strong[Formal methods and mathematics:] category theory, homotopy type theory, dependent type theory, proof assistants.],
+  content: [- #strong[Formal methods:] category theory, homotopy type theory, dependent type theory, proof assistants.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- #strong[Programming and language tooling:] Kotlin, Python, Java, SQL, Haskell; typechecking, compiler-style tooling, IntelliJ Platform.],
+  content: [- #strong[Programming:] Kotlin, Python, Java, SQL, Haskell; typechecking, language tooling, IntelliJ Platform.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

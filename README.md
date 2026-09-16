@@ -15,6 +15,7 @@ Mathematician and research engineer working across category theory, dependent ty
 - **Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.
 - **Programming and language tooling:** Haskell, Kotlin, Java, Python; typechecking, compiler-style tooling, IntelliJ Platform.
 - **AI engineering:** MCP, LLM coding agents, model fine-tuning, code completion, evaluation.
+- **Languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).
 # Selected Research and Engineering Projects
 
 ## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)

@@ -472,6 +472,10 @@
 #one-col-entry(
   content: [- #strong[AI engineering:] MCP, LLM coding agents, model fine-tuning, code completion, evaluation.],
 )
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- #strong[Languages:] Russian \(native\), English C1 \(IELTS 8.0/9\), French \(conversational\).],
+)
 
 
 == Selected Research and Engineering Projects

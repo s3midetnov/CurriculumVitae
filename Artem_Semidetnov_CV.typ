@@ -462,7 +462,7 @@
 == Technical Skills
 
 #one-col-entry(
-  content: [- #strong[Formal methods and mathematics:] category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.],
+  content: [- #strong[Formal methods and mathematics:] category theory, homotopy type theory, dependent type theory, proof assistants.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

@@ -12,7 +12,7 @@ Mathematician and research engineer building proof-assistant tooling and AI syst
 
 # Technical Skills
 
-- **Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants, theorem proving, formalization.
+- **Formal methods and mathematics:** category theory, homotopy type theory, dependent type theory, proof assistants.
 - **Programming and language tooling:** Kotlin, Python, Java, SQL, Haskell; typechecking, compiler-style tooling, IntelliJ Platform.
 - **AI engineering:** MCP, LLM coding agents, model fine-tuning, code completion, evaluation.
 - **Languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).

@@ -125,8 +125,8 @@ design:
   theme: classic
   page:
     size: us-letter
-    top_margin: 2cm
-    bottom_margin: 2cm
+    top_margin: 1.6cm
+    bottom_margin: 1.6cm
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true

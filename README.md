@@ -1,66 +1,27 @@
 # Artem Semidetnov's CV
 
 - Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
-- Location: Geneva, Switzerland
-- Website: [artem.semidetnov.com](https://artem.semidetnov.com/)
-- GitHub: [s3midetnov](https://github.com/s3midetnov)
+- Location: Geneve, Switzerland
 
 
-# Profile
-
-Mathematician and research engineer building proof-assistant tooling and AI systems for formal mathematics. My experience spans typechecker development, IDE integrations, formalization, and original mathematical research.
-
-# Technical Skills
-
-- **Formal methods:** category theory, homotopy type theory, dependent type theory, proof assistants.
-- **Programming:** Kotlin, Python, Java, SQL, Haskell; typechecking, language tooling, IntelliJ Platform.
-- **AI engineering:** MCP, LLM coding agents, model fine-tuning, code completion, evaluation.
-- **Languages:** Russian (native), English C1 (IELTS 8.0/9), French (conversational).
 # Education
 
-## University of Geneva, MSc in Mathematics
-
-- 2025 – 2027
-
-## Saint Petersburg State University, BSc in Mathematics
+## Saint-Petersburg State University, BSc in Mathematics
 
 - 2021 – 2025
 
-## Neapolis University Pafos, BSc in Applied Computer Science, JetBrains Program
+## Neapolis University Of Pafos, BSc in Applied Computer Science JetBrains Program
 
 - 2022 – 2024
 
-# Work Experience
+## Geneva University, MSc in Mathematics
 
-## JetBrains, Research Intern in HoTT and Dependent Types Lab
+- 2025 – 2027
 
-- Nov 2025 – Apr 2026
-- Remote
-- Developed an MCP server for the Arend proof assistant, exposing typechecking and IDE functionality to LLM coding agents.
-- Integrated the server with the Arend plugin for IntelliJ IDEA and contributed plugin changes.
-- Built an experimental LLM coding agent for Arend using Koog; fine-tuned models for Arend code completion.
+# Research Interests
 
-## JetBrains, Research Intern in HoTT and Dependent Types Lab
-
-- June 2024 – Sept 2024
-- Pafos, Cyprus
-- Contributed formalized results in algebra and homotopy type theory to the official Arend library.
-- Formalized the Eckmann-Hilton argument, Eilenberg-MacLane spaces, homology of types, group automorphisms, Schur's Lemma, Maschke's Lemma, and characterizations of group actions; selected work shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
-
-## IPONWEB (acquired by Criteo), Machine Learning Intern
-
-- May 2023 – Sept 2023
-- Pafos, Cyprus
-- Reverse-engineered a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
-
-# Research and Engineering
-
-## [Rzk proof assistant and sHoTT library](https://github.com/rzk-lang)
-
-- Aug 2026 – present
-- Open source
-- Implemented identity-type inference from either endpoint, expanded error diagnostics, and added regression tests in an [open pull request](https://github.com/rzk-lang/rzk/pull/363).
-- Formalized that precomposition with an equivalence is an equivalence in the [sHoTT library](https://github.com/rzk-lang/sHoTT/pull/196).
+- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+# Publications
 
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)
 
@@ -72,30 +33,109 @@ Mathematician and research engineer building proof-assistant tooling and AI syst
 
 ## AI-Assisted Mathematical Research
 
-- [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) - Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).
-- [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) - Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).
-- [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) - ***Artem Semidetnov*** (Aug 2026).
+- [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).
+- [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).
+- [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).
 
-# Research Interests
+# Work Experience
 
-- Categorical homotopy theory; homotopy type theory and computer-verified mathematics; simplicial methods and operads; AI-assisted mathematical reasoning; geometric and combinatorial group theory.
-# Awards and Selected Activities
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
-[Excellence Master Fellowship at the University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
+- Nov 2025 – Apr 2026
+- Remote
+- Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
+- Developed an experimental LLM coding agent for writing Arend code using framework Koog.
+- Fine-tuned models for Arend code completion.
 
-JetBrains Scholarship at Neapolis University Pafos
+## JetBrains, Research Intern in HoTT and Dependent Types Lab
 
-Funded participant at [Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc), ICERM, Brown University, 2026.
+- June 2024 – Sept 2024
+- Pafos, Cyprus
+- I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
+- Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
+- Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
+
+## IPONWEB (acquired by Criteo), Machine Learning Intern
+
+- May 2023 – Sept 2023
+- Pafos, Cyprus
+- Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
+
+# Awards and Scholarships
+
+Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+
+JetBrains Scholarship in Neapolis University
+
+Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
+
+[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
+
+# Teaching Experience
+
+## Sirius educational center, Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
+
+- Apr 2024 – May 2024
+- Sochi, Russia
+
+## Laboratory for continuous mathematical education, mathematics teacher for gifted students
+
+- 2021 – 2023
+- Saint-Petersburg, Russia
+
+## Mathematics and Computer Science faculty program for prospective students, Teaching assistant on the course Braid and knot theory"\;
+
+- June 2023
+- Saint-Petersburg, Russia
 
 # Selected Talks
 
-## [The operad associated to a crossed simplicial group](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)
+## On the geometry of free nilpotent groups
 
-- July 2026
-- Young Topologists Meeting 2026, Copenhagen
+- 2021
+- Novosibirsk, Russia
+- Siberian summer conference
 
-## [Plus construction and simplicial methods](https://cs.hse.ru/mirror/pubs/share/1075346122)
+## ["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)
+
+- Saint-Petersburg, Russia
+- St. Petersburg Seminar on Representation Theory and Dynamical Systems
+
+## ["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)
+
+- 2024
+- N.Novgorod, Russia
+- Topological Methods in Dynamics and Related Topics VII
+
+## ["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)
 
 - Aug 2025
-- Algebraic Topology, Geometry, Combinatorics, and Data Analysis, Pushkin
+- Pushkin, Russia
+- [Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)
 
+## ["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)
+
+- July 2026
+- Copenhagen, Denmark
+- Young Topologists Meeting 2026
+
+# Schools and Workshops
+
+## [Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc)
+
+- Aug 2026
+- ICERM, Brown University, Providence, RI
+- Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant (travel and lodging funded).
+
+# Miscellaneous
+
+- Finalist of 2020 Intel ISEF
+- Intel ISEF alumni
+- Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
+- 3rd team place in 2019 [International Tournament of Young Mathematicians](https://www.itym.org) in Barcelona, Spain
+- Organizer of the [Euler International Mathematical Institute's functional analysis seminar](https://indico.eimi.ru/category/102/)
+- English level C1 (IELTS 8.0/9, taken in 2020, 2024)
+- Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+- Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
+- Invited judge in International Tournament of Young Mathematicians 2024, 2025
+- [A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)

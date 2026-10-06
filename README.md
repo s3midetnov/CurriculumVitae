@@ -23,6 +23,9 @@
 - Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 # Publications
 
+## Operadic double dual (preprint in preparation)
+
+
 ## [The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)
 
 - Dec 2025
@@ -30,9 +33,6 @@
 ## [On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)
 
 - May 2021
-
-## Operadic double dual (in progress)
-
 
 ## AI-Assisted Mathematical Research
 

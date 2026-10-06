@@ -58,6 +58,8 @@ cv:
       - name: '[On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)'
         summary: '***Artem Semidetnov***, Ruslan Magdiev · [doi:10.48550/arXiv.2106.00095](https://doi.org/10.48550/arXiv.2106.00095)'
         date: 2021-05-31
+      - name: 'Operadic double dual (in progress)' 
+        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, ***Artem Semidetnov***'
       - name: AI-Assisted Mathematical Research
         highlights:
           - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).'

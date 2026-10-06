@@ -49,11 +49,11 @@ cv:
         end_date: 2027
 
     research interests:
-      - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+      - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 
     publications:
       - name: 'Operadic double dual (preprint in preparation)' 
-        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, ***Artem Semidetnov***'
+        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, ***Artem Semidetnov***'
       - name: '[The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)'
         summary: '***Artem Semidetnov*** · [doi:10.48550/arXiv.2512.14498](https://doi.org/10.48550/arXiv.2512.14498)'
         date: 2025-12-16
@@ -62,7 +62,7 @@ cv:
         date: 2021-05-31
       - name: AI-Assisted Mathematical Research
         highlights:
-          - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).'
+          - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasily Ionin, ***Artem Semidetnov*** (Sept 2026).'
           - '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).'
           - '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).'
 

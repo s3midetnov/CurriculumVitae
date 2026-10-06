@@ -495,7 +495,7 @@
 == Research Interests
 
 #one-col-entry(
-  content: [- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory \(stable commutator length, one-relator groups\).],
+  content: [- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.],
 )
 
 
@@ -507,7 +507,7 @@
     #strong[Operadic double dual \(preprint in preparation\)]
 
     #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, #strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, #strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
   ],
 )
 
@@ -548,7 +548,7 @@
     #strong[AI-Assisted Mathematical Research]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([#link("https://arxiv.org/abs/2609.04275")[An explicit non-elementary matrix over a bivariate Laurent polynomial ring] — Vasiliy Ionin, #strong[#emph[Artem Semidetnov]] \(Sept 2026\).],[#link("https://arxiv.org/abs/2608.29219")[On Some More Problems from the Kourovka Notebook] — Vasily Ionin, #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],[#link("https://arxiv.org/abs/2608.21465")[The stable commutator length of a relator is not a one-relator group invariant] — #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],)
+    #v(design-highlights-top-margin);#highlights([#link("https://arxiv.org/abs/2609.04275")[An explicit non-elementary matrix over a bivariate Laurent polynomial ring] — Vasily Ionin, #strong[#emph[Artem Semidetnov]] \(Sept 2026\).],[#link("https://arxiv.org/abs/2608.29219")[On Some More Problems from the Kourovka Notebook] — Vasily Ionin, #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],[#link("https://arxiv.org/abs/2608.21465")[The stable commutator length of a relator is not a one-relator group invariant] — #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],)
   ],
 )
 

@@ -20,7 +20,7 @@
 
 # Research Interests
 
-- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
+- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 # Publications
 
 ## Operadic double dual (preprint in preparation)
@@ -36,7 +36,7 @@
 
 ## AI-Assisted Mathematical Research
 
-- [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).
+- [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasily Ionin, ***Artem Semidetnov*** (Sept 2026).
 - [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).
 - [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).
 

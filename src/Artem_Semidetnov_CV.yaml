@@ -52,14 +52,14 @@ cv:
       - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory (stable commutator length, one-relator groups).
 
     publications:
+      - name: 'Operadic double dual (preprint in preparation)' 
+        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, ***Artem Semidetnov***'
       - name: '[The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)'
         summary: '***Artem Semidetnov*** · [doi:10.48550/arXiv.2512.14498](https://doi.org/10.48550/arXiv.2512.14498)'
         date: 2025-12-16
       - name: '[On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)'
         summary: '***Artem Semidetnov***, Ruslan Magdiev · [doi:10.48550/arXiv.2106.00095](https://doi.org/10.48550/arXiv.2106.00095)'
         date: 2021-05-31
-      - name: 'Operadic double dual (in progress)' 
-        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, ***Artem Semidetnov***'
       - name: AI-Assisted Mathematical Research
         highlights:
           - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).'

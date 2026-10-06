@@ -31,6 +31,9 @@
 
 - May 2021
 
+## Operadic double dual (in progress)
+
+
 ## AI-Assisted Mathematical Research
 
 - [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasiliy Ionin, ***Artem Semidetnov*** (Sept 2026).

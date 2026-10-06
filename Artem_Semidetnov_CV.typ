@@ -534,6 +534,17 @@
 
 #one-col-entry(
   content: [
+    #strong[Operadic double dual \(in progress\)]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Arshak Aivazian, Emmanuel Farjoun, Vasiliy Ionin, #strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
     #strong[AI-Assisted Mathematical Research]
 
     #v(-design-text-leading)

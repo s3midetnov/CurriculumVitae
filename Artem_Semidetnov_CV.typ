@@ -502,6 +502,17 @@
 
 == Publications and Preprints
 
+
+#one-col-entry(
+  content: [
+    #strong[Operadic double dual \(preprint in preparation\)]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, #strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #link("https://arxiv.org/abs/2609.04275")[#strong[An explicit non-elementary matrix over a bivariate Laurent polynomial ring]]
@@ -576,32 +587,10 @@
   ],
 )
 
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[AI-assisted research note]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [LLM tools were used in the research process for the three 2026 preprints listed above.])], column-gutter: 0cm)
-  ],
-)
-
 
 
 == Research Experience / Projects
 
-
-#one-col-entry(
-  content: [
-    #strong[Operadic double dual]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Preprint in preparation with Arshak Aivazian, Emmanuel Farjoun, and Vasily Ionin.])], column-gutter: 0cm)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #link("https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf")[#strong[On Simplicial Resolutions for Link Groups]]

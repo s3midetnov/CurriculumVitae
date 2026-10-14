@@ -24,6 +24,9 @@
 - Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 # Publications and Preprints
 
+## Operadic double dual (preprint in preparation)
+
+
 ## [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275)
 
 - Sept 2026
@@ -44,13 +47,7 @@
 
 - May 2021
 
-## AI-assisted research note
-
-
 # Research Experience / Projects
-
-## Operadic double dual
-
 
 ## [On Simplicial Resolutions for Link Groups](https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf)
 

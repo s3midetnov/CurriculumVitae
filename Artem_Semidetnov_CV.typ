@@ -804,11 +804,7 @@ Aug 2026
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Created mathematical problem for 2024 International Tournament of Young Mathematicians #link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[10th in here]],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #link("https://eteam.tfjm.org/about-us-2025/")[A member of Scientific Organization Committee in ETEAM 2025]],
+  content: [- Created a #link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[problem] for the 2024 International Tournament of Young Mathematicians; member of the #link("https://eteam.tfjm.org/about-us-2025/")[Scientific Organizing Committee, ETEAM 2025]],
 )
 
 

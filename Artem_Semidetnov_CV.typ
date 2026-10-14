@@ -3,7 +3,7 @@
 
 #let name = "Artem Semidetnov"
 #let locale-catalog-page-numbering-style = context { "Artem Semidetnov - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Sept 2026"
+#let locale-catalog-last-updated-date-style = "Last updated in Oct 2026"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -44,14 +44,14 @@
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.5em
 #let design-entries-vertical-space-between-entries = 1.2em
 #let design-entries-date-and-location-width = 4.15cm
-#let design-entries-allow-page-break-in-entries = true
+#let design-entries-allow-page-break-in-entries = false
 #let design-entries-horizontal-space-between-columns = 0.1cm
 #let design-entries-left-and-right-margin = 0.2cm
 #let design-page-top-margin = 2cm
 #let design-page-bottom-margin = 2cm
 #let design-page-left-margin = 2cm
 #let design-page-right-margin = 2cm
-#let design-page-show-last-updated-date = true
+#let design-page-show-last-updated-date = false
 #let design-page-show-page-numbering = true
 #let design-links-underline = false
 #let design-entry-types-education-entry-degree-column-width = 1cm
@@ -443,7 +443,7 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Geneve, Switzerland],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Geneva, Switzerland],
   [#box(original-link("mailto:artemsemidetnov@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)artemsemidetnov\@gmail.com])],
   [#box(original-link("https://artem.semidetnov.com/")[#fa-icon("link", size: 0.9em) #h(0.05cm)artem.semidetnov.com])],
 )
@@ -456,9 +456,22 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
+  left-content: [#strong[MSc]],
+  middle-content: [
+    #strong[University of Geneva], Mathematics
+  ],
+  right-content: [
+    2025-2027 \(expected\)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, YES DEGREE
+#three-col-entry(
+  left-column-width: 1cm,
   left-content: [#strong[BSc]],
   middle-content: [
-    #strong[Saint-Petersburg State University], Mathematics
+    #strong[Saint Petersburg State University], Mathematics
   ],
   right-content: [
     2021 – 2025
@@ -471,23 +484,10 @@
   left-column-width: 1cm,
   left-content: [#strong[BSc]],
   middle-content: [
-    #strong[Neapolis University Of Pafos], Applied Computer Science JetBrains Program
+    #strong[Neapolis University Pafos], Applied Computer Science, JetBrains Program
   ],
   right-content: [
     2022 – 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, YES DEGREE
-#three-col-entry(
-  left-column-width: 1cm,
-  left-content: [#strong[MSc]],
-  middle-content: [
-    #strong[Geneva University], Mathematics
-  ],
-  right-content: [
-    2025 – 2027
   ],
 )
 
@@ -500,34 +500,49 @@
 )
 
 
-== Awards and Scholarships
+== Publications and Preprints
 
-#one-col-entry(
-  content: [#link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[Excellence Master Fellowship at Geneva University]]
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/abs/2609.04275")[#strong[An explicit non-elementary matrix over a bivariate Laurent polynomial ring]]
+  ],
+  right-content: [
+    Sept 2026
+  ],
 )
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [Scholarship by \"Rodnye Goroda\" \(a social investment program of PJSC \"Gazprom neft\"\), 2023-2024]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [JetBrains Scholarship in Neapolis University]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [Travel grant of Chebyshev laboratory for #link("https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK")[Winter student school in mathematics and CS of HSE and MCS], Moscow]
-)
-
-
-== Publications
-
-
 #one-col-entry(
   content: [
-    #strong[Operadic double dual \(preprint in preparation\)]
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Vasily Ionin, #strong[#emph[Artem Semidetnov]] · #link("https://arxiv.org/abs/2609.04275")[arXiv:2609.04275]])], column-gutter: 0cm)
+  ],
+)
 
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, #strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/abs/2608.29219")[#strong[On Some More Problems from the Kourovka Notebook]]
+  ],
+  right-content: [
+    Aug 2026
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Vasily Ionin, #strong[#emph[Artem Semidetnov]] · #link("https://arxiv.org/abs/2608.29219")[arXiv:2608.29219]])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://arxiv.org/abs/2608.21465")[#strong[The stable commutator length of a relator is not a one-relator group invariant]]
+  ],
+  right-content: [
+    Aug 2026
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]] · #link("https://arxiv.org/abs/2608.21465")[arXiv:2608.21465]])], column-gutter: 0cm)
   ],
 )
 
@@ -542,7 +557,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]] · #link("https://doi.org/10.48550/arXiv.2512.14498")[doi:10.48550/arXiv.2512.14498]])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]] · #link("https://arxiv.org/abs/2512.14498")[arXiv:2512.14498]])], column-gutter: 0cm)
   ],
 )
 
@@ -557,7 +572,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]], Ruslan Magdiev · #link("https://doi.org/10.48550/arXiv.2106.00095")[doi:10.48550/arXiv.2106.00095]])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]], Ruslan Magdiev · #link("https://arxiv.org/abs/2106.00095")[arXiv:2106.00095]])], column-gutter: 0cm)
   ],
 )
 
@@ -565,72 +580,195 @@
 
 #one-col-entry(
   content: [
-    #strong[AI-Assisted Mathematical Research]
+    #strong[AI-assisted research note]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([#link("https://arxiv.org/abs/2609.04275")[An explicit non-elementary matrix over a bivariate Laurent polynomial ring] — Vasily Ionin, #strong[#emph[Artem Semidetnov]] \(Sept 2026\).],[#link("https://arxiv.org/abs/2608.29219")[On Some More Problems from the Kourovka Notebook] — Vasily Ionin, #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],[#link("https://arxiv.org/abs/2608.21465")[The stable commutator length of a relator is not a one-relator group invariant] — #strong[#emph[Artem Semidetnov]] \(Aug 2026\).],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [LLM tools were used in the research process for the three 2026 preprints listed above.])], column-gutter: 0cm)
   ],
 )
 
 
 
-== Other Mathematical Work
+== Research Experience / Projects
 
 
 #one-col-entry(
   content: [
+    #strong[Operadic double dual]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Preprint in preparation with Arshak Aivazian, Emmanuel Farjoun, and Vasily Ionin.])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #link("https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf")[#strong[On Simplicial Resolutions for Link Groups]]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
-  ],
-)
-
-
-
-== Work Experience
-
-#two-col-entry(
-  left-content: [
-    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.],[Developed an experimental LLM coding agent for writing Arend code using framework Koog.],[Fine-tuned models for Arend code completion.],)
   ],
   right-content: [
-    Remote
-
-Nov 2025 – Apr 2026
+    Oct 2026
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Independent mathematical note presenting two proofs of the Lei-Li-Wu theorem on a simplicial resolution of link groups.])], column-gutter: 0cm)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[JetBrains], Research Intern in HoTT and Dependent Types Lab
+    #strong[JetBrains - Research Intern, HoTT and Dependent Types Lab]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.],[Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.],[Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. \(Some of these results are in the #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[1.10 release]\).],)
+    #v(design-highlights-top-margin);#highlights([Developed the official Arend library and formalized results in algebra and homotopy type theory.],[Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, homology of types, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[Arend 1.10].],)
   ],
   right-content: [
     Pafos, Cyprus
 
-June 2024 – Sept 2024
+June 2024 - Sept 2024
+  ],
+)
+
+
+
+== Selected Talks
+
+#two-col-entry(
+  left-content: [
+    #link("https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf")[#strong[The operad associated to a crossed simplicial group]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Young Topologists Meeting 2026],)
+  ],
+  right-content: [
+    Copenhagen, Denmark
+
+July 2026
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
+    #link("https://cs.hse.ru/mirror/pubs/share/1075346122")[#strong[Plus construction and simplicial methods]]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.],)
+    #v(design-highlights-top-margin);#highlights([#link("https://cs.hse.ru/ata-lab/atgcda25")[Conference \"Algebraic Topology, Geometry, Combinatorics, and Data Analysis\"]],)
   ],
   right-content: [
-    Pafos, Cyprus
+    Pushkin, Russia
 
-May 2023 – Sept 2023
+Aug 2025
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://disk.yandex.ru/i/52gkQhVjjRravA")[#strong[Twisting numbers on braid and Thompson groups]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Topological Methods in Dynamics and Related Topics VII],)
+  ],
+  right-content: [
+    Nizhny Novgorod, Russia
+
+2024
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355")[#strong[On the Poisson boundary of lamplighter groups]]
+  ],
+  right-content: [
+    Saint Petersburg, Russia
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([St. Petersburg Seminar on Representation Theory and Dynamical Systems],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[On the geometry of free nilpotent groups]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Siberian Summer Conference],)
+  ],
+  right-content: [
+    Novosibirsk, Russia
+
+2021
+  ],
+)
+
+
+
+== Honors and Awards
+
+#two-col-entry(
+  left-content: [
+    #link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[#strong[Excellence Master Fellowship, University of Geneva]]
+  ],
+  right-content: [
+    2025-2027
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Rodnye Goroda Scholarship]
+  ],
+  right-content: [
+    2023-2024
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[JetBrains Scholarship, Neapolis University Pafos]
+  ],
+  right-content: [
+    2022-2024
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://math.hse.ru/announcements/981291875.html")[#strong[Chebyshev Laboratory Travel Grant, Winter School in Mathematics and Theoretical Computer Science]]
+  ],
+  right-content: [
+    2025
+  ],
+)
+#one-col-entry(
+  content: [
+    
   ],
 )
 
@@ -640,7 +778,7 @@ May 2023 – Sept 2023
 
 #two-col-entry(
   left-content: [
-    #strong[Sirius educational center], Teaching assistant on the course #link("https://sochisirius.ru/obuchenie/nauka/smena1783/8258")[\"Groups of intermediate growth\"]
+    #strong[Sirius Educational Center], Teaching Assistant, #link("https://sochisirius.ru/obuchenie/nauka/smena1783/8258")[Groups of Intermediate Growth]
 
     
   ],
@@ -654,119 +792,74 @@ Apr 2024 – May 2024
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Laboratory for continuous mathematical education], mathematics teacher for gifted students
+    #strong[Mathematics and Computer Science Faculty Program for Prospective Students], Teaching Assistant, Braid and Knot Theory
 
     
   ],
   right-content: [
-    Saint-Petersburg, Russia
-
-2021 – 2023
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Mathematics and Computer Science faculty program for prospective students], Teaching assistant on the course Braid and knot theory
-
-    
-  ],
-  right-content: [
-    Saint-Petersburg, Russia
+    Saint Petersburg, Russia
 
 June 2023
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Laboratory for Continuous Mathematical Education], Mathematics Teacher for Gifted Students
+
+    
+  ],
+  right-content: [
+    Saint Petersburg, Russia
+
+2021 – 2023
+  ],
+)
 
 
-== Selected Talks
+
+== Work Experience
 
 #two-col-entry(
   left-content: [
-    #strong[On the geometry of free nilpotent groups]
+    #strong[JetBrains], Research Intern, HoTT and Dependent Types Lab
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Siberian summer conference],)
+    #v(design-highlights-top-margin);#highlights([Designed and developed an MCP server for the Arend proof assistant, exposing typechecking and IDE functionality to AI coding agents.],[Integrated the MCP server with the Arend plugin for IntelliJ IDEA and built an experimental Arend coding agent using Koog.],[Fine-tuned models for Arend code completion.],)
   ],
   right-content: [
-    Novosibirsk, Russia
+    Remote
 
-2021
+Nov 2025 – Apr 2026
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355")[#strong[\"On the Poisson boundary of lamplighter groups\"]]
-  ],
-  right-content: [
-    Saint-Petersburg, Russia
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([St. Petersburg Seminar on Representation Theory and Dynamical Systems],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://disk.yandex.ru/i/52gkQhVjjRravA")[#strong[\"Twisting numbers on braid and Thompson’s groups\"]]
+    #strong[IPONWEB \(acquired by Criteo\)], Machine Learning Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Topological Methods in Dynamics and Related Topics VII],)
+    #v(design-highlights-top-margin);#highlights([Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.],)
   ],
   right-content: [
-    N.Novgorod, Russia
+    Pafos, Cyprus
 
-2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://cs.hse.ru/mirror/pubs/share/1075346122")[#strong[\"Plus construction and simplicial methods\"]]
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([#link("https://cs.hse.ru/ata-lab/atgcda25")[Conference \"Algebraic Topology, geometry, combinatorics, and data analysis\"]],)
-  ],
-  right-content: [
-    Pushkin, Russia
-
-Aug 2025
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf")[#strong[\"The operad associated to a crossed simplicial group\"]]
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Young Topologists Meeting 2026],)
-  ],
-  right-content: [
-    Copenhagen, Denmark
-
-July 2026
+May 2023 – Sept 2023
   ],
 )
 
 
 
-== Schools and Workshops
+== Workshops, Service and Additional Information
 
 #two-col-entry(
   left-content: [
     #link("https://icerm.brown.edu/program/topical_workshop/tw-26-thc")[#strong[Teaching Higher Category Theory with Computers]]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant \(travel and lodging funded\).],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Funded participant.])], column-gutter: 0cm)
   ],
   right-content: [
     ICERM, Brown University, Providence, RI
@@ -775,36 +868,27 @@ Aug 2026
   ],
 )
 
-
-
-== Miscellaneous
+#v(design-entries-vertical-space-between-entries)
 
 #one-col-entry(
-  content: [- Finalist of 2020 Intel ISEF; Intel ISEF alumnus],
+  content: [
+    #strong[Academic Service and Outreach]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Organizer of the #link("https://indico.eimi.ru/category/102/")[Euler International Mathematical Institute Functional Analysis Seminar].],[Invited judge, Saint Petersburg Tournament of Young Mathematicians \(since 2021\) and International Tournament of Young Mathematicians \(2024, 2025\).],[#link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[Problem author], ITYM 2024; #link("https://eteam.tfjm.org/about-us-2025/")[Scientific Organizing Committee], ETEAM 2025.],)
+  ],
 )
+
 #v(design-entries-vertical-space-between-entries)
+
 #one-col-entry(
-  content: [- Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF],
+  content: [
+    #strong[Additional Information]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Finalist, Intel ISEF 2020; winner and PDMI special prize, Baltic SEF 2019; third place, #link("https://www.itym.org")[International Tournament of Young Mathematicians 2019].],[English C1 \(IELTS 8.0/9, taken in 2020 and 2024\).],)
+  ],
 )
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- 3rd team place in 2019 #link("https://www.itym.org")[International Tournament of Young Mathematicians] in Barcelona, Spain],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Organizer of the #link("https://indico.eimi.ru/category/102/")[Euler International Mathematical Institute's functional analysis seminar]],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- English level C1 \(IELTS 8.0/9, taken in 2020, 2024\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Invited judge in Saint-Petersburg Tournament of Young Mathematicians \(since 2021\) and International Tournament of Young Mathematicians \(2024, 2025\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[Problem author], ITYM 2024; #link("https://eteam.tfjm.org/about-us-2025/")[Scientific Organizing Committee], ETEAM 2025],
-)
+
 
 

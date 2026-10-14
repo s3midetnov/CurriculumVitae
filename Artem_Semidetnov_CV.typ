@@ -458,10 +458,10 @@
   left-column-width: 1cm,
   left-content: [#strong[MSc]],
   middle-content: [
-    #strong[University of Geneva], Mathematics
+    #strong[University of Geneva], Mathematics \(expected\)
   ],
   right-content: [
-    2025-2027 \(expected\)
+    2025 – 2027
   ],
 )
 
@@ -718,7 +718,7 @@ Aug 2025
     #link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[#strong[Excellence Master Fellowship, University of Geneva]]
   ],
   right-content: [
-    2025-2027
+    2025 – 2027
   ],
 )
 #one-col-entry(
@@ -733,7 +733,7 @@ Aug 2025
     #strong[Rodnye Goroda Scholarship]
   ],
   right-content: [
-    2023-2024
+    2023 – 2024
   ],
 )
 #one-col-entry(
@@ -748,7 +748,7 @@ Aug 2025
     #strong[JetBrains Scholarship, Neapolis University Pafos]
   ],
   right-content: [
-    2022-2024
+    2022 – 2024
   ],
 )
 #one-col-entry(

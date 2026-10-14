@@ -7,9 +7,9 @@
 
 # Education
 
-## University of Geneva, MSc in Mathematics
+## University of Geneva, MSc in Mathematics (expected)
 
-- 2025-2027 (expected)
+- 2025 – 2027
 
 ## Saint Petersburg State University, BSc in Mathematics
 
@@ -98,15 +98,15 @@
 
 ## [Excellence Master Fellowship, University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
 
-- 2025-2027
+- 2025 – 2027
 
 ## Rodnye Goroda Scholarship
 
-- 2023-2024
+- 2023 – 2024
 
 ## JetBrains Scholarship, Neapolis University Pafos
 
-- 2022-2024
+- 2022 – 2024
 
 ## [Chebyshev Laboratory Travel Grant, Winter School in Mathematics and Theoretical Computer Science](https://math.hse.ru/announcements/981291875.html)
 

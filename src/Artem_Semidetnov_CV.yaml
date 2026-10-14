@@ -48,6 +48,8 @@ cv:
       - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 
     publications and preprints:
+      - name: Operadic double dual (preprint in preparation)
+        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, ***Artem Semidetnov***'
       - name: '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275)'
         summary: 'Vasily Ionin, ***Artem Semidetnov*** · [arXiv:2609.04275](https://arxiv.org/abs/2609.04275)'
         date: 2026-09
@@ -63,12 +65,8 @@ cv:
       - name: '[On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)'
         summary: '***Artem Semidetnov***, Ruslan Magdiev · [arXiv:2106.00095](https://arxiv.org/abs/2106.00095)'
         date: 2021-05
-      - name: AI-assisted research note
-        summary: LLM tools were used in the research process for the three 2026 preprints listed above.
 
     research experience / projects:
-      - name: Operadic double dual
-        summary: 'Preprint in preparation with Arshak Aivazian, Emmanuel Farjoun, and Vasily Ionin.'
       - name: '[On Simplicial Resolutions for Link Groups](https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf)'
         summary: 'Independent mathematical note presenting two proofs of the Lei-Li-Wu theorem on a simplicial resolution of link groups.'
         date: 2026-10

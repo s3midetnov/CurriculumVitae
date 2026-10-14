@@ -445,6 +445,7 @@
 #let connections-list = (
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Geneve, Switzerland],
   [#box(original-link("mailto:artemsemidetnov@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)artemsemidetnov\@gmail.com])],
+  [#box(original-link("https://artem.semidetnov.com/")[#fa-icon("link", size: 0.9em) #h(0.05cm)artem.semidetnov.com])],
 )
 #connections(connections-list)
 
@@ -496,6 +497,25 @@
 
 #one-col-entry(
   content: [- Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.],
+)
+
+
+== Awards and Scholarships
+
+#one-col-entry(
+  content: [#link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[Excellence Master Fellowship at Geneva University]]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Scholarship by \"Rodnye Goroda\" \(a social investment program of PJSC \"Gazprom neft\"\), 2023-2024]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [JetBrains Scholarship in Neapolis University]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Travel grant of Chebyshev laboratory for #link("https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK")[Winter student school in mathematics and CS of HSE and MCS], Moscow]
 )
 
 
@@ -554,6 +574,20 @@
 
 
 
+== Other Mathematical Work
+
+
+#one-col-entry(
+  content: [
+    #link("https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf")[#strong[On Simplicial Resolutions for Link Groups]]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#strong[#emph[Artem Semidetnov]]])], column-gutter: 0cm)
+  ],
+)
+
+
+
 == Work Experience
 
 #two-col-entry(
@@ -600,25 +634,6 @@ May 2023 – Sept 2023
   ],
 )
 
-
-
-== Awards and Scholarships
-
-#one-col-entry(
-  content: [Scholarship by \"Rodnye Goroda\" \(a social investment program of PJSC \"Gazprom neft\"\), 2023-2024]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [JetBrains Scholarship in Neapolis University]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [Travel grant of Chebyshev laboratory for #link("https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK")[Winter student school in mathematics and CS of HSE and MCS], Moscow]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#link("https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025")[Excellence Master Fellowship at Geneva University]]
-)
 
 
 == Teaching Experience

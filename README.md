@@ -2,6 +2,7 @@
 
 - Email: [artemsemidetnov@gmail.com](mailto:artemsemidetnov@gmail.com)
 - Location: Geneve, Switzerland
+- Website: [artem.semidetnov.com](https://artem.semidetnov.com/)
 
 
 # Education
@@ -21,6 +22,16 @@
 # Research Interests
 
 - Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
+# Awards and Scholarships
+
+[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
+
+Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+
+JetBrains Scholarship in Neapolis University
+
+Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
+
 # Publications
 
 ## Operadic double dual (preprint in preparation)
@@ -39,6 +50,11 @@
 - [An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasily Ionin, ***Artem Semidetnov*** (Sept 2026).
 - [On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).
 - [The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).
+
+# Other Mathematical Work
+
+## [On Simplicial Resolutions for Link Groups](https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf)
+
 
 # Work Experience
 
@@ -63,16 +79,6 @@
 - May 2023 – Sept 2023
 - Pafos, Cyprus
 - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
-
-# Awards and Scholarships
-
-Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
-
-JetBrains Scholarship in Neapolis University
-
-Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
-
-[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)
 
 # Teaching Experience
 

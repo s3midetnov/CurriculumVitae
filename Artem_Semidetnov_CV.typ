@@ -886,7 +886,7 @@ Aug 2026
     #strong[Additional Information]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Finalist, Intel ISEF 2020; winner and PDMI special prize, Baltic SEF 2019; third place, #link("https://www.itym.org")[International Tournament of Young Mathematicians 2019].],[English C1 \(IELTS 8.0/9, taken in 2020 and 2024\).],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Intel ISEF finalist \(2020\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\).])], column-gutter: 0cm)
   ],
 )
 

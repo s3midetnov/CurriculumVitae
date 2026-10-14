@@ -160,6 +160,4 @@
 
 ## Additional Information
 
-- Finalist, Intel ISEF 2020; winner and PDMI special prize, Baltic SEF 2019; third place, [International Tournament of Young Mathematicians 2019](https://www.itym.org).
-- English C1 (IELTS 8.0/9, taken in 2020 and 2024).
 

@@ -3,7 +3,7 @@ cv:
   location: Geneve, Switzerland
   email: artemsemidetnov@gmail.com
   # phone: tel:+7 (921) 363-8909
-  # website: https://yourwebsite.com/
+  website: https://artem.semidetnov.com/
   # social_networks:
   #   - network: Telegram
   #     username: tema6501
@@ -51,6 +51,12 @@ cv:
     research interests:
       - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 
+    awards and scholarships:
+      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
+      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
+      - JetBrains Scholarship in Neapolis University
+      - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
+
     publications:
       - name: 'Operadic double dual (preprint in preparation)' 
         summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, ***Artem Semidetnov***'
@@ -65,6 +71,10 @@ cv:
           - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasily Ionin, ***Artem Semidetnov*** (Sept 2026).'
           - '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).'
           - '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).'
+
+    other mathematical work:
+      - name: '[On Simplicial Resolutions for Link Groups](https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf)'
+        summary: '***Artem Semidetnov***'
 
     work experience:
       - company: JetBrains
@@ -92,11 +102,6 @@ cv:
         end_date: 2023-09
         highlights:
           - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
-    awards and scholarships:
-      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
-      - JetBrains Scholarship in Neapolis University
-      - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
-      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
     teaching experience:
       - company: Sirius educational center
         position: Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)

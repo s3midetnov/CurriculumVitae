@@ -780,11 +780,7 @@ Aug 2026
 == Miscellaneous
 
 #one-col-entry(
-  content: [- Finalist of 2020 Intel ISEF],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Intel ISEF alumni],
+  content: [- Finalist of 2020 Intel ISEF; Intel ISEF alumnus],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -804,15 +800,11 @@ Aug 2026
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Invited judge in Saint-Petersburg Tournament of Young Mathematicians \(since 2021\)],
+  content: [- Invited judge in Saint-Petersburg Tournament of Young Mathematicians \(since 2021\) and International Tournament of Young Mathematicians \(2024, 2025\)],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [- Created mathematical problem for 2024 International Tournament of Young Mathematicians #link("https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view")[10th in here]],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Invited judge in International Tournament of Young Mathematicians 2024, 2025],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

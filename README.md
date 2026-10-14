@@ -138,13 +138,11 @@ Travel grant of Chebyshev laboratory for [Winter student school in mathematics a
 
 # Miscellaneous
 
-- Finalist of 2020 Intel ISEF
-- Intel ISEF alumni
+- Finalist of 2020 Intel ISEF; Intel ISEF alumnus
 - Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
 - 3rd team place in 2019 [International Tournament of Young Mathematicians](https://www.itym.org) in Barcelona, Spain
 - Organizer of the [Euler International Mathematical Institute's functional analysis seminar](https://indico.eimi.ru/category/102/)
 - English level C1 (IELTS 8.0/9, taken in 2020, 2024)
-- Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021)
+- Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025)
 - Created mathematical problem for 2024 International Tournament of Young Mathematicians [10th in here](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view)
-- Invited judge in International Tournament of Young Mathematicians 2024, 2025
 - [A member of Scientific Organization Committee in ETEAM 2025](https://eteam.tfjm.org/about-us-2025/)

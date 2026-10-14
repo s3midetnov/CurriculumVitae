@@ -1,6 +1,6 @@
 cv:
   name: Artem Semidetnov
-  location: Geneve, Switzerland
+  location: Geneva, Switzerland
   email: artemsemidetnov@gmail.com
   # phone: tel:+7 (921) 363-8909
   website: https://artem.semidetnov.com/
@@ -28,136 +28,139 @@ cv:
     #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
     #       you can find a comprehensive user guide for RenderCV.
     education:
-      - institution: Saint-Petersburg State University
+      - institution: University of Geneva
+        area: Mathematics
+        degree: MSc
+        date: 2025-2027 (expected)
+      - institution: Saint Petersburg State University
         area: Mathematics
         degree: BSc
         start_date: 2021
         end_date: 2025
-        # highlights:
-        #   - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-        #   - '**Coursework:** Computer Architecture, Comparison
-        #     of Learning Algorithms, Computational Theory'
-      - institution: Neapolis University Of Pafos
-        area: Applied Computer Science JetBrains Program
+      - institution: Neapolis University Pafos
+        area: Applied Computer Science, JetBrains Program
         degree: BSc
         start_date: 2022
         end_date: 2024
-      - institution: Geneva University
-        area: Mathematics
-        degree: MSc
-        start_date: 2025
-        end_date: 2027
 
     research interests:
       - bullet: Categorical homotopy theory; simplicial methods and operads; homotopy type theory and computer-formalized approaches; geometric and combinatorial group theory.
 
-    awards and scholarships:
-      - '[Excellence Master Fellowship at Geneva University](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
-      - Scholarship by "Rodnye Goroda" (a social investment program of PJSC "Gazprom neft"), 2023-2024
-      - JetBrains Scholarship in Neapolis University
-      - Travel grant of Chebyshev laboratory for [Winter student school in mathematics and CS of HSE and MCS](https://math.hse.ru/announcements/981291875.html?_r=27960661733829961.43133&t=8136581&r=OK), Moscow
-
-    publications:
-      - name: 'Operadic double dual (preprint in preparation)' 
-        summary: 'Arshak Aivazian, Emmanuel Farjoun, Vasily Ionin, ***Artem Semidetnov***'
+    publications and preprints:
+      - name: '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275)'
+        summary: 'Vasily Ionin, ***Artem Semidetnov*** · [arXiv:2609.04275](https://arxiv.org/abs/2609.04275)'
+        date: 2026-09
+      - name: '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219)'
+        summary: 'Vasily Ionin, ***Artem Semidetnov*** · [arXiv:2608.29219](https://arxiv.org/abs/2608.29219)'
+        date: 2026-08
+      - name: '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465)'
+        summary: '***Artem Semidetnov*** · [arXiv:2608.21465](https://arxiv.org/abs/2608.21465)'
+        date: 2026-08
       - name: '[The operad associated to a crossed simplicial group](https://arxiv.org/abs/2512.14498)'
-        summary: '***Artem Semidetnov*** · [doi:10.48550/arXiv.2512.14498](https://doi.org/10.48550/arXiv.2512.14498)'
-        date: 2025-12-16
+        summary: '***Artem Semidetnov*** · [arXiv:2512.14498](https://arxiv.org/abs/2512.14498)'
+        date: 2025-12
       - name: '[On the geometry of free nilpotent groups](https://arxiv.org/abs/2106.00095)'
-        summary: '***Artem Semidetnov***, Ruslan Magdiev · [doi:10.48550/arXiv.2106.00095](https://doi.org/10.48550/arXiv.2106.00095)'
-        date: 2021-05-31
-      - name: AI-Assisted Mathematical Research
-        highlights:
-          - '[An explicit non-elementary matrix over a bivariate Laurent polynomial ring](https://arxiv.org/abs/2609.04275) — Vasily Ionin, ***Artem Semidetnov*** (Sept 2026).'
-          - '[On Some More Problems from the Kourovka Notebook](https://arxiv.org/abs/2608.29219) — Vasily Ionin, ***Artem Semidetnov*** (Aug 2026).'
-          - '[The stable commutator length of a relator is not a one-relator group invariant](https://arxiv.org/abs/2608.21465) — ***Artem Semidetnov*** (Aug 2026).'
+        summary: '***Artem Semidetnov***, Ruslan Magdiev · [arXiv:2106.00095](https://arxiv.org/abs/2106.00095)'
+        date: 2021-05
+      - name: AI-assisted research note
+        summary: LLM tools were used in the research process for the three 2026 preprints listed above.
 
-    other mathematical work:
+    research experience / projects:
+      - name: Operadic double dual
+        summary: 'Preprint in preparation with Arshak Aivazian, Emmanuel Farjoun, and Vasily Ionin.'
       - name: '[On Simplicial Resolutions for Link Groups](https://artem.semidetnov.com/projects/on-simplicial-resolutions-for-link-groups.pdf)'
-        summary: '***Artem Semidetnov***'
+        summary: 'Independent mathematical note presenting two proofs of the Lei-Li-Wu theorem on a simplicial resolution of link groups.'
+        date: 2026-10
+      - name: JetBrains - Research Intern, HoTT and Dependent Types Lab
+        location: Pafos, Cyprus
+        date: June 2024 - Sept 2024
+        highlights:
+          - Developed the official Arend library and formalized results in algebra and homotopy type theory.
+          - Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, homology of types, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
+    selected talks:
+      - name: '[The operad associated to a crossed simplicial group](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
+        date: 2026-07
+        highlights:
+          - Young Topologists Meeting 2026
+        location: Copenhagen, Denmark
+      - name: '[Plus construction and simplicial methods](https://cs.hse.ru/mirror/pubs/share/1075346122)'
+        highlights:
+          - '[Conference "Algebraic Topology, Geometry, Combinatorics, and Data Analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
+        date: 2025-08
+        location: Pushkin, Russia
+      - name: '[Twisting numbers on braid and Thompson groups](https://disk.yandex.ru/i/52gkQhVjjRravA)'
+        highlights:
+          - Topological Methods in Dynamics and Related Topics VII
+        date: 2024
+        location: Nizhny Novgorod, Russia
+      - name: '[On the Poisson boundary of lamplighter groups](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
+        highlights:
+          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
+        location: Saint Petersburg, Russia
+      - name: On the geometry of free nilpotent groups
+        location: Novosibirsk, Russia
+        highlights:
+          - Siberian Summer Conference
+        date: 2021
+
+    honors and awards:
+      - name: '[Excellence Master Fellowship, University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
+        date: 2025-2027
+      - name: Rodnye Goroda Scholarship
+        date: 2023-2024
+      - name: JetBrains Scholarship, Neapolis University Pafos
+        date: 2022-2024
+      - name: '[Chebyshev Laboratory Travel Grant, Winter School in Mathematics and Theoretical Computer Science](https://math.hse.ru/announcements/981291875.html)'
+        date: 2025
+
+    teaching experience:
+      - company: Sirius Educational Center
+        position: Teaching Assistant, [Groups of Intermediate Growth](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
+        location: Sochi, Russia
+        start_date: 2024-04
+        end_date: 2024-05
+      - company: Mathematics and Computer Science Faculty Program for Prospective Students
+        position: Teaching Assistant, Braid and Knot Theory
+        location: Saint Petersburg, Russia
+        date: 2023-06
+      - company: Laboratory for Continuous Mathematical Education
+        position: Mathematics Teacher for Gifted Students
+        location: Saint Petersburg, Russia
+        start_date: 2021
+        end_date: 2023
 
     work experience:
       - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
+        position: Research Intern, HoTT and Dependent Types Lab
         location: Remote
         start_date: 2025-11
         end_date: 2026-04
         highlights:
-          - Developed AI features for the Arend language including MCP servers for typechecking, IDE integration. Contributed to the Arend plugin in Intellij IDEA.
-          - Developed an experimental LLM coding agent for writing Arend code using framework Koog.
+          - Designed and developed an MCP server for the Arend proof assistant, exposing typechecking and IDE functionality to AI coding agents.
+          - Integrated the MCP server with the Arend plugin for IntelliJ IDEA and built an experimental Arend coding agent using Koog.
           - Fine-tuned models for Arend code completion.
-      - company: JetBrains
-        position: Research Intern in HoTT and Dependent Types Lab
-        location: Pafos, Cyprus
-        start_date: 2024-06
-        end_date: 2024-09
-        highlights:
-          - I was developing the official library in the Arend language. I formalized different results in algebra and homotopy type theory, including following.
-          - Formalized Eckmann-Hilton argument, Eilenberg-Maclane spaces, Homologies of types.
-          - Formalized automorphisms of groups, Schur's Lemma, Maschke's Lemma, Group actions characterizations. (Some of these results are in the [1.10 release](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html)).
       - company: IPONWEB (acquired by Criteo)
         position: Machine Learning Intern
         location: Pafos, Cyprus
         start_date: 2023-05
         end_date: 2023-09
         highlights:
-          - Criteo has a ML tool that analyzes sites and produces word2vec representations. Reverse-engineered the behaviour of this tool and analyzed its possible applications.
-    teaching experience:
-      - company: Sirius educational center
-        position: Teaching assistant on the course ["Groups of intermediate growth"](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
-        location: Sochi, Russia
-        start_date: 2024-04
-        end_date: 2024-05
-      - company: Laboratory for continuous mathematical education
-        position: mathematics teacher for gifted students
-        location: Saint-Petersburg, Russia
-        start_date: 2021
-        end_date: 2023
-      - company: Mathematics and Computer Science faculty program for prospective students
-        location: Saint-Petersburg, Russia
-        position: 'Teaching assistant on the course Braid and knot theory"\;'
-        date: 2023-06
-    selected talks:
-      - name: "On the geometry of free nilpotent groups"
-        location: Novosibirsk, Russia
-        highlights:
-          - Siberian summer conference
-        date: 2021
-      - name: '["On the Poisson boundary of lamplighter groups"](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
-        highlights:
-          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
-        location: Saint-Petersburg, Russia
-      - name: '["Twisting numbers on braid and Thompson’s groups"](https://disk.yandex.ru/i/52gkQhVjjRravA)'
-        highlights:
-          - Topological Methods in Dynamics and Related Topics VII
-        date: 2024
-        location: N.Novgorod, Russia
-      - name: '["Plus construction and simplicial methods"](https://cs.hse.ru/mirror/pubs/share/1075346122)'
-        highlights:
-          - '[Conference "Algebraic Topology, geometry, combinatorics, and data analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
-        date: 2025-08
-        location: Pushkin, Russia
-      - name: '["The operad associated to a crossed simplicial group"](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
-        date: 2026-07
-        highlights:
-          - Young Topologists Meeting 2026
-        location: Copenhagen, Denmark
+          - Reverse-engineered the behavior of a Criteo ML system that analyzes websites and produces word2vec representations; evaluated potential applications.
 
-    schools and workshops:
+    workshops, service and additional information:
       - name: '[Teaching Higher Category Theory with Computers](https://icerm.brown.edu/program/topical_workshop/tw-26-thc)'
-        highlights:
-          - 'Topical workshop on directed HoTT and computer-formalized higher category theory, organized by Emily Riehl, Nima Rasekh, Jonathan Weinberger. Participant (travel and lodging funded).'
+        summary: Funded participant.
         date: 2026-08
         location: ICERM, Brown University, Providence, RI
-
-    miscellaneous:
-      - bullet: Finalist of 2020 Intel ISEF; Intel ISEF alumnus
-      - bullet: Winner of 2019 Baltic SEF, PDMI special prize in 2019 Baltic SEF
-      - bullet: 3rd team place in 2019 [International Tournament of Young Mathematicians](https://www.itym.org) in Barcelona, Spain
-      - bullet: Organizer of the [Euler International Mathematical Institute's functional analysis seminar](https://indico.eimi.ru/category/102/)
-      - bullet: English level C1 (IELTS 8.0/9, taken in 2020, 2024)
-      - bullet: Invited judge in Saint-Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025)
-      - bullet: '[Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025'
+      - name: Academic Service and Outreach
+        highlights:
+          - Organizer of the [Euler International Mathematical Institute Functional Analysis Seminar](https://indico.eimi.ru/category/102/).
+          - Invited judge, Saint Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025).
+          - '[Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025.'
+      - name: Additional Information
+        highlights:
+          - Finalist, Intel ISEF 2020; winner and PDMI special prize, Baltic SEF 2019; third place, [International Tournament of Young Mathematicians 2019](https://www.itym.org).
+          - English C1 (IELTS 8.0/9, taken in 2020 and 2024).
 
     # projects:
     #   - name: Multi-User Drawing Tool
@@ -199,7 +202,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: black
     name: '#004f90'
@@ -239,7 +242,7 @@ design:
     left_and_right_margin: 0.2cm
     horizontal_space_between_columns: 0.1cm
     vertical_space_between_entries: 1.2em
-    allow_page_break_in_entries: true
+    allow_page_break_in_entries: false
     short_second_row: false
     show_time_spans_in: []
   highlights:
@@ -312,6 +315,3 @@ locale:
     - October
     - November
     - December
-rendercv_settings:
-  date: '2026-09-10'
-  bold_keywords: []

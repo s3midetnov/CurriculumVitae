@@ -29,9 +29,10 @@ cv:
     #       you can find a comprehensive user guide for RenderCV.
     education:
       - institution: University of Geneva
-        area: Mathematics
+        area: Mathematics (expected)
         degree: MSc
-        date: 2025-2027 (expected)
+        start_date: 2025
+        end_date: 2027
       - institution: Saint Petersburg State University
         area: Mathematics
         degree: BSc
@@ -105,11 +106,14 @@ cv:
 
     honors and awards:
       - name: '[Excellence Master Fellowship, University of Geneva](https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/winners-2025)'
-        date: 2025-2027
+        start_date: 2025
+        end_date: 2027
       - name: Rodnye Goroda Scholarship
-        date: 2023-2024
+        start_date: 2023
+        end_date: 2024
       - name: JetBrains Scholarship, Neapolis University Pafos
-        date: 2022-2024
+        start_date: 2022
+        end_date: 2024
       - name: '[Chebyshev Laboratory Travel Grant, Winter School in Mathematics and Theoretical Computer Science](https://math.hse.ru/announcements/981291875.html)'
         date: 2025
 

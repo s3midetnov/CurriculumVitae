@@ -82,6 +82,11 @@ cv:
         highlights:
           - Young Topologists Meeting 2026
         location: Copenhagen, Denmark
+      - name: '[The operad associated to a crossed simplicial group](https://agenda.unige.ch/events/view/46113)'
+        date: 2026-06
+        highlights:
+          - Groupes de Lie et espaces de modules seminar
+        location: Geneva, Switzerland
       - name: '[Plus construction and simplicial methods](https://cs.hse.ru/mirror/pubs/share/1075346122)'
         highlights:
           - '[Conference "Algebraic Topology, Geometry, Combinatorics, and Data Analysis"](https://cs.hse.ru/ata-lab/atgcda25)'

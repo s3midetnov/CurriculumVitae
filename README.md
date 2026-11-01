@@ -68,6 +68,12 @@
 - Copenhagen, Denmark
 - Young Topologists Meeting 2026
 
+## [The operad associated to a crossed simplicial group](https://agenda.unige.ch/events/view/46113)
+
+- June 2026
+- Geneva, Switzerland
+- Groupes de Lie et espaces de modules seminar
+
 ## [Plus construction and simplicial methods](https://cs.hse.ru/mirror/pubs/share/1075346122)
 
 - Aug 2025

@@ -3,7 +3,7 @@
 
 #let name = "Artem Semidetnov"
 #let locale-catalog-page-numbering-style = context { "Artem Semidetnov - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Oct 2026"
+#let locale-catalog-last-updated-date-style = "Last updated in Nov 2026"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -635,6 +635,21 @@ June 2024 - Sept 2024
     Copenhagen, Denmark
 
 July 2026
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://agenda.unige.ch/events/view/46113")[#strong[The operad associated to a crossed simplicial group]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Groupes de Lie et espaces de modules seminar],)
+  ],
+  right-content: [
+    Geneva, Switzerland
+
+June 2026
   ],
 )
 

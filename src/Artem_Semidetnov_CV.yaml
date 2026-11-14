@@ -40,7 +40,7 @@ cv:
         end_date: 2025
       - institution: Neapolis University Pafos
         area: Applied Computer Science, JetBrains Program
-        degree: BSc
+        degree: Undergraduate studies
         start_date: 2022
         end_date: 2024
 
@@ -92,14 +92,10 @@ cv:
           - '[Conference "Algebraic Topology, Geometry, Combinatorics, and Data Analysis"](https://cs.hse.ru/ata-lab/atgcda25)'
         date: 2025-08
         location: Pushkin, Russia
-      - name: '[Twisting numbers on braid and Thompson groups](https://disk.yandex.ru/i/52gkQhVjjRravA)'
+      - name: '[Spectra and symmetric spectra in general model categories (after Mark Hovey)](https://www.youtube.com/watch?v=IbkGLfeiw04)'
         highlights:
-          - Topological Methods in Dynamics and Related Topics VII
-        date: 2024
-        location: Nizhny Novgorod, Russia
-      - name: '[On the Poisson boundary of lamplighter groups](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)'
-        highlights:
-          - St. Petersburg Seminar on Representation Theory and Dynamical Systems
+          - Talk in a course on stable homotopy theory
+        date: 2024-11
         location: Saint Petersburg, Russia
       - name: On the geometry of free nilpotent groups
         location: Novosibirsk, Russia
@@ -164,8 +160,10 @@ cv:
           - Organizer of the [Euler International Mathematical Institute Functional Analysis Seminar](https://indico.eimi.ru/category/102/).
           - Invited judge, Saint Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025).
           - '[Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025.'
+      - name: Languages
+        summary: Russian (first language); English C1 (IELTS 8.0/9, taken in 2020 and 2024); French B1 (conversational, not certified).
       - name: Additional Information
-        summary: Intel ISEF finalist (2020); English C1 (IELTS 8.0/9, taken in 2020 and 2024).
+        summary: Intel ISEF finalist (2020).
 
     # projects:
     #   - name: Multi-User Drawing Tool

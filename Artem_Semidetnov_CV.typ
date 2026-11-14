@@ -477,6 +477,16 @@
     2021 – 2025
   ],
 )
+#block(
+  [
+    #set par(spacing: 0pt)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [GPA: 4.7/5])], column-gutter: 0cm)
+  ],
+  inset: (
+    left: design-entry-types-education-entry-degree-column-width + design-entries-horizontal-space-between-columns + design-entries-left-and-right-margin,
+    right: design-entries-left-and-right-margin,
+  ),
+)
 
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
@@ -611,7 +621,7 @@
     #strong[JetBrains - Research Intern, HoTT and Dependent Types Lab]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed the official Arend library and formalized results in algebra and homotopy type theory.],[Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, homology of types, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[Arend 1.10].],)
+    #v(design-highlights-top-margin);#highlights([Developed the official Arend library and formalized results in algebra and homotopy type theory.],[Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in #link("https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html")[Arend 1.10].],)
   ],
   right-content: [
     Pafos, Cyprus
@@ -875,7 +885,7 @@ Aug 2026
     #strong[Languages]
 
     #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Russian \(first language\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\); French B1 \(conversational, not certified\).])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Russian \(first language\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\); French \(conversational\).])], column-gutter: 0cm)
   ],
 )
 

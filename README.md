@@ -58,7 +58,7 @@
 - June 2024 - Sept 2024
 - Pafos, Cyprus
 - Developed the official Arend library and formalized results in algebra and homotopy type theory.
-- Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, homology of types, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
+- Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
 
 # Selected Talks
 

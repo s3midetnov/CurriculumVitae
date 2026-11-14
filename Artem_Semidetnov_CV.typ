@@ -482,9 +482,9 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#strong[Undergraduate studies]],
+  left-content: [],
   middle-content: [
-    #strong[Neapolis University Pafos], Applied Computer Science, JetBrains Program
+    #strong[Neapolis University Pafos], Undergraduate studies in Applied Computer Science, JetBrains Program
   ],
   right-content: [
     2022 – 2024

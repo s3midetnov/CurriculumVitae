@@ -36,6 +36,7 @@ cv:
       - institution: Saint Petersburg State University
         area: Mathematics
         degree: BSc
+        summary: 'GPA: 4.7/5'
         start_date: 2021
         end_date: 2025
       - institution: Neapolis University Pafos
@@ -74,7 +75,7 @@ cv:
         date: June 2024 - Sept 2024
         highlights:
           - Developed the official Arend library and formalized results in algebra and homotopy type theory.
-          - Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, homology of types, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
+          - Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
     selected talks:
       - name: '[The operad associated to a crossed simplicial group](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
         date: 2026-07
@@ -160,7 +161,7 @@ cv:
           - Invited judge, Saint Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025).
           - '[Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025.'
       - name: Languages
-        summary: Russian (first language); English C1 (IELTS 8.0/9, taken in 2020 and 2024); French B1 (conversational, not certified).
+        summary: Russian (first language); English C1 (IELTS 8.0/9, taken in 2020 and 2024); French (conversational).
       - name: Additional Information
         summary: Intel ISEF finalist (2020).
 

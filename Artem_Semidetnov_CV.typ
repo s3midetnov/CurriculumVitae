@@ -482,7 +482,7 @@
 // YES DATE, YES DEGREE
 #three-col-entry(
   left-column-width: 1cm,
-  left-content: [#strong[BSc]],
+  left-content: [#strong[Undergraduate studies]],
   middle-content: [
     #strong[Neapolis University Pafos], Applied Computer Science, JetBrains Program
   ],
@@ -671,30 +671,15 @@ Aug 2025
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://disk.yandex.ru/i/52gkQhVjjRravA")[#strong[Twisting numbers on braid and Thompson groups]]
+    #link("https://www.youtube.com/watch?v=IbkGLfeiw04")[#strong[Spectra and symmetric spectra in general model categories \(after Mark Hovey\)]]
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Topological Methods in Dynamics and Related Topics VII],)
-  ],
-  right-content: [
-    Nizhny Novgorod, Russia
-
-2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355")[#strong[On the Poisson boundary of lamplighter groups]]
+    #v(design-highlights-top-margin);#highlights([Talk in a course on stable homotopy theory],)
   ],
   right-content: [
     Saint Petersburg, Russia
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([St. Petersburg Seminar on Representation Theory and Dynamical Systems],)
+
+Nov 2024
   ],
 )
 
@@ -887,10 +872,21 @@ Aug 2026
 
 #one-col-entry(
   content: [
+    #strong[Languages]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Russian \(first language\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\); French B1 \(conversational, not certified\).])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
     #strong[Additional Information]
 
     #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Intel ISEF finalist \(2020\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\).])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Intel ISEF finalist \(2020\).])], column-gutter: 0cm)
   ],
 )
 

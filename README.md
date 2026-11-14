@@ -15,7 +15,7 @@
 
 - 2021 – 2025
 
-## Neapolis University Pafos, BSc in Applied Computer Science, JetBrains Program
+## Neapolis University Pafos, Undergraduate studies in Applied Computer Science, JetBrains Program
 
 - 2022 – 2024
 
@@ -80,16 +80,11 @@
 - Pushkin, Russia
 - [Conference "Algebraic Topology, Geometry, Combinatorics, and Data Analysis"](https://cs.hse.ru/ata-lab/atgcda25)
 
-## [Twisting numbers on braid and Thompson groups](https://disk.yandex.ru/i/52gkQhVjjRravA)
+## [Spectra and symmetric spectra in general model categories (after Mark Hovey)](https://www.youtube.com/watch?v=IbkGLfeiw04)
 
-- 2024
-- Nizhny Novgorod, Russia
-- Topological Methods in Dynamics and Related Topics VII
-
-## [On the Poisson boundary of lamplighter groups](https://m.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=34355)
-
+- Nov 2024
 - Saint Petersburg, Russia
-- St. Petersburg Seminar on Representation Theory and Dynamical Systems
+- Talk in a course on stable homotopy theory
 
 ## On the geometry of free nilpotent groups
 
@@ -160,6 +155,9 @@
 - Organizer of the [Euler International Mathematical Institute Functional Analysis Seminar](https://indico.eimi.ru/category/102/).
 - Invited judge, Saint Petersburg Tournament of Young Mathematicians (since 2021) and International Tournament of Young Mathematicians (2024, 2025).
 - [Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025.
+
+## Languages
+
 
 ## Additional Information
 

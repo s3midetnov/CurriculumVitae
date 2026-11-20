@@ -77,6 +77,11 @@ cv:
           - Developed the official Arend library and formalized results in algebra and homotopy type theory.
           - Formalized the Eckmann-Hilton argument, Eilenberg-Mac Lane spaces, group automorphisms, Schur's lemma, Maschke's lemma, and characterizations of group actions; selected contributions shipped in [Arend 1.10](https://arend-lang.github.io/2024/07/05/Arend-1.10.0-released.html).
     selected talks:
+      - name: '[The operadic double dual](https://www.epfl.ch/labs/hessbellwald-lab/seminar/epfl-topology-seminar-fall-2026/)'
+        date: 2026-11
+        highlights:
+          - EPFL Topology Seminar
+        location: Lausanne, Switzerland
       - name: '[The operad associated to a crossed simplicial group](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)'
         date: 2026-07
         highlights:

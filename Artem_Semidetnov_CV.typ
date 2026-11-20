@@ -636,6 +636,21 @@ June 2024 - Sept 2024
 
 #two-col-entry(
   left-content: [
+    #link("https://www.epfl.ch/labs/hessbellwald-lab/seminar/epfl-topology-seminar-fall-2026/")[#strong[The operadic double dual]]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([EPFL Topology Seminar],)
+  ],
+  right-content: [
+    Lausanne, Switzerland
+
+Nov 2026
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #link("https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf")[#strong[The operad associated to a crossed simplicial group]]
     #v(-design-text-leading)
 

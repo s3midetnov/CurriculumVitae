@@ -62,6 +62,12 @@
 
 # Selected Talks
 
+## [The operadic double dual](https://www.epfl.ch/labs/hessbellwald-lab/seminar/epfl-topology-seminar-fall-2026/)
+
+- Nov 2026
+- Lausanne, Switzerland
+- EPFL Topology Seminar
+
 ## [The operad associated to a crossed simplicial group](https://www.math.ku.dk/english/calendar/events/ytm26/YTM_2026_no_friday_closing.pdf)
 
 - July 2026

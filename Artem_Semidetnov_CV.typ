@@ -786,6 +786,21 @@ Nov 2024
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Intel ISEF Finalist]
+  ],
+  right-content: [
+    2020
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
 
 
 == Teaching Experience
@@ -901,17 +916,6 @@ Aug 2026
 
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Russian \(first language\); English C1 \(IELTS 8.0/9, taken in 2020 and 2024\); French \(conversational\).])], column-gutter: 0cm)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[Additional Information]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Intel ISEF finalist \(2020\).])], column-gutter: 0cm)
   ],
 )
 

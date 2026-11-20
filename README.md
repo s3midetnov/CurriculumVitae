@@ -116,6 +116,10 @@
 
 - 2025
 
+## Intel ISEF Finalist
+
+- 2020
+
 # Teaching Experience
 
 ## Sirius Educational Center, Teaching Assistant, [Groups of Intermediate Growth](https://sochisirius.ru/obuchenie/nauka/smena1783/8258)
@@ -163,8 +167,5 @@
 - [Problem author](https://drive.google.com/file/d/1d4dqKrTKG6MI_cYQwnos8iDJWCuVIs4I/view), ITYM 2024; [Scientific Organizing Committee](https://eteam.tfjm.org/about-us-2025/), ETEAM 2025.
 
 ## Languages
-
-
-## Additional Information
 
 
